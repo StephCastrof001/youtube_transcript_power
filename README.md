@@ -26,6 +26,12 @@ para pegar en un LLM), `.srt` (subtítulos), `.json` (estructurado).
 El árbol de decisión completo, con los tiempos medidos y las trampas de cada escalón,
 está en **[METODOLOGIA.md](METODOLOGIA.md)**.
 
+**Después de transcribir viene resumir**, que es donde se pierde el valor:
+**[RESUMEN_METODOLOGIA.md](RESUMEN_METODOLOGIA.md)** — por qué el chunking casi
+siempre sobra, por qué Chain of Density va en 2-3 pasos y no 5, y cuál es el
+riesgo que ninguna guía de resumen menciona (el LLM repara los errores del ASR
+en silencio, y con confianza).
+
 ---
 
 ## Instalación
