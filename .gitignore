@@ -1,0 +1,21 @@
+# Salidas: transcripciones y audio descargado
+transcripts/
+*.wav
+*.m4a
+*.webm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Entorno / secretos
+.env
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

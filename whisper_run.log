@@ -1,0 +1,21 @@
+﻿
+[PASO 2] Whisper local — py59r7BL2Ys
+  descargando audio con yt-dlp...
+python : Traceback (most recent call last):
+En línea: 1 Carácter: 363
++ ... ipt_power"; python scripts\yt_transcript.py "https://www.youtube.com/ ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\HP SUPPORT\youtube_transcript_power\scripts\yt_transcript.py", line 536, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "C:\Users\HP SUPPORT\youtube_transcript_power\scripts\yt_transcript.py", line 508, in main
+    wav = download_audio(video_id, out_dir / ".audio")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP SUPPORT\youtube_transcript_power\scripts\yt_transcript.py", line 252, in download_audio
+    raise RuntimeError(f"yt-dlp falló:\n{result.stderr[-800:]}")
+RuntimeError: yt-dlp falló:
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+
