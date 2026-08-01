@@ -23,3 +23,5 @@ venv/
 .idea/
 Thumbs.db
 desktop.ini
+
+whisper_run.log
