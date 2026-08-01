@@ -66,6 +66,50 @@ python scripts/yt_transcript.py "URL" --lang en --model small --cpu
 
 ---
 
+## El hallazgo: los dos motores fallan, en lugares distintos
+
+Se corrieron ambos métodos sobre el mismo video de 71 minutos en español y se
+compararon los mismos tramos temporales. La hipótesis de partida era *"Whisper
+recupera los términos que el ASR rompe"*. **Es falsa.**
+
+| | Método 1 — captions ASR | Método 2 — Whisper GPU |
+|---|---|---|
+| **Tiempo** | **30 seg** | 12,9 min |
+| **Instalación** | ninguna | `yt-dlp` + 190 MB temporal |
+| **Palabras** | 10.851 | 9.742 |
+| **Segmentos** | 1.754 fragmentos | **815 oraciones** |
+| **Muletilla "eh" /1000** | 28,7 | **1,0** |
+| **Términos en inglés** | rotos | **correctos** |
+| **Morfología española** | **correcta** | rota |
+
+Ejemplos del mismo tramo, minuto 22 y 51:
+
+| Captions ASR | Whisper medium | Cuál acertó |
+|---|---|---|
+| "**Te baja**, WhatsApp con audios" | "**Tech baja**, WhatsApp con audios" | Whisper |
+| "**jubilada** docente" | "**cubilada** docente" | ASR |
+| "**Learning go**" | "**learning goals**" | Whisper |
+| "no es una **creencia**" | "no es una **credencia**" | ASR |
+| "los **distribuidores** pagarían" | "los **distribuyores** pagarían" | ASR |
+
+Whisper `medium` es multilingüe pero sesgado al inglés; el ASR de YouTube está
+afinado para el español de la región. Cada uno rompe lo que el otro acierta.
+
+**Qué usar:**
+
+| Uso | Método |
+|---|---|
+| Entender de qué va el video | **1** — 30 segundos y listo |
+| Alimentar un resumen con LLM | **2** — prosa limpia, sin muletillas |
+| Citar textual | **ambos**, contrastando el pasaje |
+
+El experimento completo, con las cuatro mediciones y el criterio fijado de
+antemano, está en **[ANALISIS_metodo1_vs_metodo2.md](ANALISIS_metodo1_vs_metodo2.md)**.
+Las dos transcripciones que lo sostienen están en [`samples/`](samples/) para que
+cualquiera pueda verificarlo.
+
+---
+
 ## Por qué existe `--no-auto`
 
 YouTube distingue dos tipos de subtítulo, y la diferencia importa más de lo que parece:

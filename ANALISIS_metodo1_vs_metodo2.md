@@ -10,6 +10,29 @@ Generado: 2026-08-01 00:33
 
 ---
 
+## Resumen — todo el experimento en una tabla
+
+| | Método 1 — captions ASR | Método 2 — Whisper GPU |
+|---|---|---|
+| **Tiempo** | **30 seg** | 12,9 min |
+| **Instalación** | ninguna | `yt-dlp` + 190 MB temporal |
+| **Palabras** | 10.851 | 9.742 |
+| **Segmentos** | 1.754 fragmentos | **815 oraciones** |
+| **Muletilla "eh" /1000** | 28,7 | **1,0** |
+| **Términos en inglés** | rotos | **correctos** |
+| **Morfología española** | **correcta** | rota |
+
+Solapamiento de vocabulario entre ambas: **57,4%** (Jaccard).
+
+**Conclusión en una línea:** ninguno gana. Fallan en dimensiones distintas.
+Whisper produce texto limpio con errores en español; el ASR produce texto
+ruidoso con errores en inglés.
+
+**Cuál usar:** Método 1 para entender o buscar. Método 2 para alimentar un LLM.
+Los dos, contrastados, para citar textual.
+
+---
+
 ## 1. Volumen
 
 | Métrica | A | B | Δ |
