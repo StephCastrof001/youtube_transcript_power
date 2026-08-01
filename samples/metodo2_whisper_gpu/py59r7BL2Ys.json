@@ -1,0 +1,4086 @@
+{
+  "video_id": "py59r7BL2Ys",
+  "url": "https://www.youtube.com/watch?v=py59r7BL2Ys",
+  "source": "whisper:cuda",
+  "language": "es",
+  "duration_sec": 4284.12,
+  "low_fidelity": false,
+  "warnings": [],
+  "segments": [
+    {
+      "start": 31.57,
+      "duration": 5.04,
+      "text": "Buenas, buenas, buenas, ¿cómo andan? Bienvenidos, bienvenidas, ¿cómo están?"
+    },
+    {
+      "start": 36.61,
+      "duration": 3.32,
+      "text": "A ver, ¿quiénes están por acá? Veo un montón de gente."
+    },
+    {
+      "start": 39.93,
+      "duration": 5.24,
+      "text": "A ver, hola Jimena, ¿cómo va? Hola Red Connect, hola Diana, Amr..."
+    },
+    {
+      "start": 45.17,
+      "duration": 2.44,
+      "text": "Uy, no los puedo seguir, como pasa siempre."
+    },
+    {
+      "start": 47.61,
+      "duration": 1.32,
+      "text": "Otra vez me pasa lo mismo."
+    },
+    {
+      "start": 48.93,
+      "duration": 3.0,
+      "text": "Buen día, almeneto, buen día, soy Elvina, buen día, Liliana."
+    },
+    {
+      "start": 51.93,
+      "duration": 4.28,
+      "text": "Buenos días, ¿cómo están? Hoy tenemos un gran día."
+    },
+    {
+      "start": 56.21,
+      "duration": 4.96,
+      "text": "Hoy me encantó, hoy le estaba justo diciendo a una de las personas del team"
+    },
+    {
+      "start": 61.17,
+      "duration": 5.36,
+      "text": "que cómo me está gustando hoy, porque venimos a ver qué onda, ¿no?"
+    },
+    {
+      "start": 66.53,
+      "duration": 3.24,
+      "text": "O sea, yo tomé el desafío y lo vamos a hacer, lo vamos a hacer."
+    },
+    {
+      "start": 69.77,
+      "duration": 3.48,
+      "text": "Tomé el desafío, así que no me voy a amedrentar."
+    },
+    {
+      "start": 74.17,
+      "duration": 2.64,
+      "text": "Vamos a trabajar un montón, vamos a hacer un montón de cosas,"
+    },
+    {
+      "start": 76.81,
+      "duration": 3.88,
+      "text": "molestimos, está buena esta, ¿no? Esta está buena, está buena."
+    },
+    {
+      "start": 81.33,
+      "duration": 1.64,
+      "text": "Eso, muy bien."
+    },
+    {
+      "start": 82.97,
+      "duration": 2.68,
+      "text": "Saludos de Bogotá, saludos de dónde más están."
+    },
+    {
+      "start": 85.65,
+      "duration": 2.0,
+      "text": "A ver, ¿desde dónde están?"
+    },
+    {
+      "start": 87.65,
+      "duration": 2.44,
+      "text": "Desde Bogotá, desde Buenos Aires, ahí veo gente"
+    },
+    {
+      "start": 90.49,
+      "duration": 4.6,
+      "text": "también desde Madrid."
+    },
+    {
+      "start": 95.09,
+      "duration": 2.88,
+      "text": "Wow, genial, desde Caba, excelente."
+    },
+    {
+      "start": 98.21,
+      "duration": 2.68,
+      "text": "Chile, bien, tenemos mucha gente."
+    },
+    {
+      "start": 100.89,
+      "duration": 1.52,
+      "text": "Córdoba, muy bien."
+    },
+    {
+      "start": 102.41,
+      "duration": 1.56,
+      "text": "Qué más Lima, excelente."
+    },
+    {
+      "start": 103.97,
+      "duration": 3.24,
+      "text": "Corrientes de Ecuador, Buenos Aires, Guatemala,"
+    },
+    {
+      "start": 108.53,
+      "duration": 5.64,
+      "text": "Pucón, Chile, desde Perú, desde México, desde Magdalena también, desde Perú."
+    },
+    {
+      "start": 114.17,
+      "duration": 1.56,
+      "text": "Bueno, estamos desde todos lados."
+    },
+    {
+      "start": 115.73,
+      "duration": 1.8,
+      "text": "Buenísimo, un aplauso para todos ustedes."
+    },
+    {
+      "start": 117.53,
+      "duration": 2.2,
+      "text": "A ver, y les voy a hacer la pregunta que les hago siempre."
+    },
+    {
+      "start": 120.65,
+      "duration": 3.8,
+      "text": "Pongan en el chat S si son los sospechosos de siempre,"
+    },
+    {
+      "start": 124.45,
+      "duration": 3.4,
+      "text": "que nos conocemos, que vienen siempre, que ya más o menos estamos en contacto."
+    },
+    {
+      "start": 127.85,
+      "duration": 5.2,
+      "text": "O pongan la letra N si son nuevos, si recién nos vemos."
+    },
+    {
+      "start": 134.71,
+      "duration": 2.27,
+      "text": "A ver, ¿qué onda?"
+    },
+    {
+      "start": 136.98,
+      "duration": 6.12,
+      "text": "Cuéntenme, a ver, a ver."
+    },
+    {
+      "start": 143.1,
+      "duration": 2.68,
+      "text": "Muy bien, S, N, excelente."
+    },
+    {
+      "start": 146.26,
+      "duration": 3.0,
+      "text": "Muy bien, muy bien, muy bien."
+    },
+    {
+      "start": 149.38,
+      "duration": 2.14,
+      "text": "Ok, perfecto."
+    },
+    {
+      "start": 151.52,
+      "duration": 1.24,
+      "text": "Me escuchan bien?"
+    },
+    {
+      "start": 152.76,
+      "duration": 1.88,
+      "text": "De pronto se me escuchan bien, a ver."
+    },
+    {
+      "start": 154.64,
+      "duration": 7.54,
+      "text": "Buenísimo, excelente."
+    },
+    {
+      "start": 164.83,
+      "duration": 1.39,
+      "text": "Me escuchan bien?"
+    },
+    {
+      "start": 166.22,
+      "duration": 2.48,
+      "text": "Perfecto, sí, buenísimo."
+    },
+    {
+      "start": 168.7,
+      "duration": 1.04,
+      "text": "Buenísimo, me escuchan bien."
+    },
+    {
+      "start": 169.74,
+      "duration": 3.48,
+      "text": "Entonces se escucha ok, sí, sí, sí, se escucha bien."
+    },
+    {
+      "start": 173.46,
+      "duration": 2.76,
+      "text": "Muy bien. Vamos a sacar este coso de acá."
+    },
+    {
+      "start": 176.58,
+      "duration": 1.36,
+      "text": "Che, el operador."
+    },
+    {
+      "start": 177.94,
+      "duration": 2.04,
+      "text": "Ahí está. Ahora sí."
+    },
+    {
+      "start": 179.98,
+      "duration": 0.88,
+      "text": "Sí, se me escucha."
+    },
+    {
+      "start": 180.86,
+      "duration": 1.8,
+      "text": "Buenísimo. Bueno, bueno, vamos a arrancar."
+    },
+    {
+      "start": 183.98,
+      "duration": 2.72,
+      "text": "No, pero te conozco de volar así."
+    },
+    {
+      "start": 186.74,
+      "duration": 1.52,
+      "text": "De volarla, de volar ese otro canal."
+    },
+    {
+      "start": 188.26,
+      "duration": 1.68,
+      "text": "Es otro canal de hace mucho."
+    },
+    {
+      "start": 189.94,
+      "duration": 1.24,
+      "text": "De hace muchos, muchos años."
+    },
+    {
+      "start": 191.18,
+      "duration": 1.36,
+      "text": "Lindos años de volarla."
+    },
+    {
+      "start": 192.54,
+      "duration": 0.96,
+      "text": "Te escucho. Ok, excelente."
+    },
+    {
+      "start": 193.5,
+      "duration": 1.2,
+      "text": "Vamos a poner un poquito esto."
+    },
+    {
+      "start": 194.7,
+      "duration": 3.08,
+      "text": "Vamos a oscurecer un poquito porque está medio, medio quemado."
+    },
+    {
+      "start": 197.78,
+      "duration": 1.28,
+      "text": "Me veo. Ahora está. Muy bien."
+    },
+    {
+      "start": 199.06,
+      "duration": 2.12,
+      "text": "Mejor. Bueno, hoy vamos a trabajar."
+    },
+    {
+      "start": 202.01,
+      "duration": 0.76,
+      "text": "Hoy vamos a trabajar."
+    },
+    {
+      "start": 202.77,
+      "duration": 3.72,
+      "text": "No hoy. Toda la semana vamos a trabajar y vamos a crear un producto."
+    },
+    {
+      "start": 206.49,
+      "duration": 3.92,
+      "text": "Desde cero a producto andando y todo desarrollado."
+    },
+    {
+      "start": 210.41,
+      "duration": 2.56,
+      "text": "Toda la parte de product management,"
+    },
+    {
+      "start": 212.97,
+      "duration": 2.28,
+      "text": "toda la parte de product discovery, toda la parte de diseño."
+    },
+    {
+      "start": 215.25,
+      "duration": 2.32,
+      "text": "Todo lo vamos a ir haciendo juntos."
+    },
+    {
+      "start": 218.97,
+      "duration": 3.84,
+      "text": "Una de las cosas que les contaba o por lo menos como surgió la idea"
+    },
+    {
+      "start": 222.81,
+      "duration": 2.68,
+      "text": "es que en principio viene mucha gente."
+    },
+    {
+      "start": 225.77,
+      "duration": 0.92,
+      "text": "¿Qué nos pasó?"
+    },
+    {
+      "start": 226.69,
+      "duration": 2.72,
+      "text": "Mucha gente que llega a nosotros y nos dice"
+    },
+    {
+      "start": 231.01,
+      "duration": 2.84,
+      "text": "no, estoy atrasadísima, estoy atrasadísimo."
+    },
+    {
+      "start": 233.85,
+      "duration": 1.88,
+      "text": "No sé muy bien cómo usar esto."
+    },
+    {
+      "start": 235.73,
+      "duration": 3.44,
+      "text": "No sé en dónde, qué se está usando, qué no se está usando."
+    },
+    {
+      "start": 239.81,
+      "duration": 1.4,
+      "text": "Me siento años luz."
+    },
+    {
+      "start": 241.21,
+      "duration": 4.08,
+      "text": "Veo Internet y veo los posts de LinkedIn y de Twitter"
+    },
+    {
+      "start": 245.29,
+      "duration": 3.48,
+      "text": "o X o de Instagram y me siento o de TikTok"
+    },
+    {
+      "start": 248.77,
+      "duration": 4.92,
+      "text": "y me siento super atras, como que no estoy a la altura."
+    },
+    {
+      "start": 254.41,
+      "duration": 4.24,
+      "text": "Y lo que pasa nosotros conversando mucho con las personas"
+    },
+    {
+      "start": 258.65,
+      "duration": 3.48,
+      "text": "y también viendo lo que pasa es un poco, no sé si comparten ustedes,"
+    },
+    {
+      "start": 262.45,
+      "duration": 3.13,
+      "text": "que hay mucho, mucho Internet"
+    },
+    {
+      "start": 265.58,
+      "duration": 1.68,
+      "text": "diciendo cómo tenemos que hacer las cosas,"
+    },
+    {
+      "start": 267.26,
+      "duration": 3.04,
+      "text": "pero nadie nos muestra cómo hacer las cosas, no?"
+    },
+    {
+      "start": 272.66,
+      "duration": 2.6,
+      "text": "Hay mucho de tenés que hacer esto, tenés que hacer lo otro,"
+    },
+    {
+      "start": 275.26,
+      "duration": 1.64,
+      "text": "tenés que hacer acá, tenés que hacer allá,"
+    },
+    {
+      "start": 276.9,
+      "duration": 2.04,
+      "text": "pero nadie te muestra cómo lo hacen, no?"
+    },
+    {
+      "start": 278.94,
+      "duration": 3.36,
+      "text": "Entonces es como que eso genera mucha,"
+    },
+    {
+      "start": 283.25,
+      "duration": 3.64,
+      "text": "podemos decir, ansiedad en la gente, desconfianza también, no?"
+    },
+    {
+      "start": 286.89,
+      "duration": 5.2,
+      "text": "Después dicen que la gente anda ahí diciendo lo que no hace"
+    },
+    {
+      "start": 292.09,
+      "duration": 3.32,
+      "text": "y esa desconfianza no está muy buena tampoco, no?"
+    },
+    {
+      "start": 296.73,
+      "duration": 3.24,
+      "text": "Y sí, yo creo que hay mucha gente que, hay muchas personas que"
+    },
+    {
+      "start": 301.05,
+      "duration": 2.52,
+      "text": "arman posts de inteligencia artificial"
+    },
+    {
+      "start": 303.61,
+      "duration": 2.92,
+      "text": "acerca de cosas que no hacen y lo publican y lo dicen a los demás"
+    },
+    {
+      "start": 306.53,
+      "duration": 0.92,
+      "text": "lo que tienen que hacer."
+    },
+    {
+      "start": 307.45,
+      "duration": 2.76,
+      "text": "Pero también hay un montón de gente que genuinamente"
+    },
+    {
+      "start": 310.69,
+      "duration": 2.44,
+      "text": "es parte de su día a día y comparte información."
+    },
+    {
+      "start": 313.37,
+      "duration": 4.28,
+      "text": "El tema es que después meten a todos en la misma bolsa, de acuerdo?"
+    },
+    {
+      "start": 318.45,
+      "duration": 3.6,
+      "text": "Y un poquito queremos ir, queremos, no vamos a hacer justicia"
+    },
+    {
+      "start": 322.05,
+      "duration": 3.88,
+      "text": "ni salir a rajarnos las vestiduras de eso, simplemente decir"
+    },
+    {
+      "start": 325.93,
+      "duration": 2.36,
+      "text": "bueno, a ver, vamos a hacer algo distinto, vamos a mostrarle a la gente"
+    },
+    {
+      "start": 328.29,
+      "duration": 1.44,
+      "text": "cómo lo hacemos nosotros en nuestro día."
+    },
+    {
+      "start": 329.73,
+      "duration": 2.4,
+      "text": "Yo me paso, me animaría a decir"
+    },
+    {
+      "start": 332.13,
+      "duration": 2.68,
+      "text": "que el 75 por ciento del día construyendo productos"
+    },
+    {
+      "start": 335.41,
+      "duration": 3.0,
+      "text": "y 25 por ciento del resto publico cuando puedo."
+    },
+    {
+      "start": 338.41,
+      "duration": 2.08,
+      "text": "Si ustedes ven mis redes sociales, debe hacer como dos meses"
+    },
+    {
+      "start": 340.49,
+      "duration": 3.0,
+      "text": "que no publico nada o la semana pasada publicó un post."
+    },
+    {
+      "start": 343.93,
+      "duration": 3.28,
+      "text": "Es que no tengo, no hay tiempo físico, no?"
+    },
+    {
+      "start": 348.21,
+      "duration": 2.92,
+      "text": "Una de las cosas que estuve tratando de hacer los últimos,"
+    },
+    {
+      "start": 351.81,
+      "duration": 3.69,
+      "text": "la última semana estuve tratando de dormir"
+    },
+    {
+      "start": 356.02,
+      "duration": 1.64,
+      "text": "más de siete horas, sí?"
+    },
+    {
+      "start": 357.66,
+      "duration": 1.6,
+      "text": "O más, perdón, más de cinco horas."
+    },
+    {
+      "start": 359.26,
+      "duration": 2.16,
+      "text": "Y no, no, no, me está costando un montón."
+    },
+    {
+      "start": 361.94,
+      "duration": 3.08,
+      "text": "Encima que vengo arrastrando un jet lag de la semana anterior"
+    },
+    {
+      "start": 365.02,
+      "duration": 3.52,
+      "text": "que estuvimos en San Francisco, una de las de la una de las conferencias"
+    },
+    {
+      "start": 368.54,
+      "duration": 1.24,
+      "text": "de inteligencia artificial."
+    },
+    {
+      "start": 369.78,
+      "duration": 2.56,
+      "text": "Hay varios temas interesantes ahí para terminar de tratar."
+    },
+    {
+      "start": 373.1,
+      "duration": 4.52,
+      "text": "Me los animo a sumarse eventualmente al atelier de productos."
+    },
+    {
+      "start": 377.62,
+      "duration": 3.0,
+      "text": "Después le vamos a pasar el link y demás para que se sumen por mail y todo."
+    },
+    {
+      "start": 381.82,
+      "duration": 3.04,
+      "text": "Y la idea era bueno, vamos a hacerlo, vamos a compartir"
+    },
+    {
+      "start": 384.86,
+      "duration": 2.84,
+      "text": "un poco de nuestro día a día, de acuerdo?"
+    },
+    {
+      "start": 387.7,
+      "duration": 2.2,
+      "text": "Vamos a compartir un poco de cómo hacemos las cosas"
+    },
+    {
+      "start": 389.9,
+      "duration": 3.96,
+      "text": "para que la gente no se sienta tan atrás, no crea que estamos"
+    },
+    {
+      "start": 393.86,
+      "duration": 2.0,
+      "text": "mandando cohetes al espacio."
+    },
+    {
+      "start": 395.86,
+      "duration": 1.8,
+      "text": "Y no, vamos a compartir."
+    },
+    {
+      "start": 397.66,
+      "duration": 2.76,
+      "text": "¿Cómo lo hacemos nosotros y cómo es nuestro día a día?"
+    },
+    {
+      "start": 400.7,
+      "duration": 3.0,
+      "text": "Eso no quiere decir que otros lo hagan distinto o que puede pasar."
+    },
+    {
+      "start": 403.78,
+      "duration": 2.36,
+      "text": "Saben que con las tools de inteligencia artificial"
+    },
+    {
+      "start": 406.3,
+      "duration": 4.4,
+      "text": "hay 300 tools cada día, o sea, y que hoy está de moda esta"
+    },
+    {
+      "start": 410.7,
+      "duration": 1.64,
+      "text": "y la semana que viene está de moda la otra."
+    },
+    {
+      "start": 412.34,
+      "duration": 2.72,
+      "text": "Entonces eso es un poquito lo que tenemos que tener."
+    },
+    {
+      "start": 415.94,
+      "duration": 2.12,
+      "text": "Coinciden o no coinciden, tenen en cuenta, sí?"
+    },
+    {
+      "start": 418.58,
+      "duration": 2.53,
+      "text": "¿Coinciden o no coinciden?"
+    },
+    {
+      "start": 421.11,
+      "duration": 1.0,
+      "text": "Sí?"
+    },
+    {
+      "start": 426.89,
+      "duration": 3.6,
+      "text": "Bueno, ahí está, que vamos a tirar ideas."
+    },
+    {
+      "start": 430.49,
+      "duration": 3.32,
+      "text": "Y de paso vamos tirando ideas, vamos tirando ideas de qué hacemos?"
+    },
+    {
+      "start": 434.89,
+      "duration": 3.12,
+      "text": "¿Qué producto quieren que creemos?"
+    },
+    {
+      "start": 438.21,
+      "duration": 1.68,
+      "text": "De nuevo, esto es medio reality."
+    },
+    {
+      "start": 439.89,
+      "duration": 3.2,
+      "text": "Yo tomé el desafío, dije OK, vamos, dale."
+    },
+    {
+      "start": 443.37,
+      "duration": 2.12,
+      "text": "Así que a ver, vamos a tirar algunas ideas."
+    },
+    {
+      "start": 445.49,
+      "duration": 1.8,
+      "text": "¿Qué les gustaría que armemos?"
+    },
+    {
+      "start": 447.53,
+      "duration": 1.68,
+      "text": "¿Qué necesidad tienen?"
+    },
+    {
+      "start": 449.21,
+      "duration": 1.72,
+      "text": "¿Qué ideas se les ocurre?"
+    },
+    {
+      "start": 450.93,
+      "duration": 3.56,
+      "text": "¿Qué vieron que hizo otro y les gustaría que lo repitamos?"
+    },
+    {
+      "start": 454.49,
+      "duration": 4.96,
+      "text": "O algún así producto medio descolgado o algún problema?"
+    },
+    {
+      "start": 459.45,
+      "duration": 1.08,
+      "text": "Un medio de pago, dice."
+    },
+    {
+      "start": 460.53,
+      "duration": 3.28,
+      "text": "A ver, Dalila dice un medio de pago, una SAS, OK."
+    },
+    {
+      "start": 464.37,
+      "duration": 1.72,
+      "text": "Tiene que ser un producto que después podamos dejar"
+    },
+    {
+      "start": 466.09,
+      "duration": 2.84,
+      "text": "en GitHub público para que ustedes se los bajen y lo puedan usar."
+    },
+    {
+      "start": 469.21,
+      "duration": 5.16,
+      "text": "Agente para ventas, hotel booking, un website de booking de hoteles,"
+    },
+    {
+      "start": 474.41,
+      "duration": 4.48,
+      "text": "un Tinder para mascotas, un chatbot, un bot de WhatsApp,"
+    },
+    {
+      "start": 478.89,
+      "duration": 2.72,
+      "text": "una app para saber cuándo regar mis plantas,"
+    },
+    {
+      "start": 482.09,
+      "duration": 3.88,
+      "text": "una Alic en tiempo real, una agente asistente de PO,"
+    },
+    {
+      "start": 485.97,
+      "duration": 4.49,
+      "text": "agentes que controlen el trabajo de otro agente,"
+    },
+    {
+      "start": 490.46,
+      "duration": 2.32,
+      "text": "app para investigar mercado."
+    },
+    {
+      "start": 492.78,
+      "duration": 2.6,
+      "text": "Tus conceptos me han servido para construir una alternativa de negocio"
+    },
+    {
+      "start": 495.38,
+      "duration": 0.64,
+      "text": "y mi propia narrativa."
+    },
+    {
+      "start": 496.02,
+      "duration": 1.56,
+      "text": "Oh, muy bien, excelente."
+    },
+    {
+      "start": 497.58,
+      "duration": 3.68,
+      "text": "Crear un agente, un CRM, un B2B, un agente para recursos humanos,"
+    },
+    {
+      "start": 501.62,
+      "duration": 2.44,
+      "text": "un agente para corregir trabajo de los alumnos,"
+    },
+    {
+      "start": 504.46,
+      "duration": 2.56,
+      "text": "algo que me ayuda a cocinar durante la semana,"
+    },
+    {
+      "start": 507.02,
+      "duration": 3.4,
+      "text": "un portafolio de proyectos, me gustó, es el de la cocinar, eh?"
+    },
+    {
+      "start": 510.78,
+      "duration": 1.4,
+      "text": "App para cuidado de plantas."
+    },
+    {
+      "start": 512.18,
+      "duration": 3.64,
+      "text": "Me encanta una aplicación de IA que es alguna."
+    },
+    {
+      "start": 516.14,
+      "duration": 2.56,
+      "text": "Sí, vamos a usar, vamos a poner IA, sí,"
+    },
+    {
+      "start": 518.98,
+      "duration": 1.84,
+      "text": "vamos a poner la inteligencia artificial también."
+    },
+    {
+      "start": 520.82,
+      "duration": 2.16,
+      "text": "Un Tinder para humanos, pero que sirvo."
+    },
+    {
+      "start": 522.98,
+      "duration": 1.44,
+      "text": "Agente para ventas, un e-commerce,"
+    },
+    {
+      "start": 524.42,
+      "duration": 1.4,
+      "text": "gobierno de bitácora para familias."
+    },
+    {
+      "start": 525.82,
+      "duration": 2.24,
+      "text": "Ché, me gusta lo de cocinar la semana."
+    },
+    {
+      "start": 528.06,
+      "duration": 1.96,
+      "text": "Chatbot, cotizador, una plataforma de naciones"
+    },
+    {
+      "start": 530.02,
+      "duration": 1.68,
+      "text": "que se quede con una comisión, una app de billetera."
+    },
+    {
+      "start": 531.74,
+      "duration": 2.36,
+      "text": "No lo vamos a monetizar, lo vamos a dejar pública"
+    },
+    {
+      "start": 534.1,
+      "duration": 2.68,
+      "text": "para que después la bajen y la sigan."
+    },
+    {
+      "start": 536.78,
+      "duration": 4.4,
+      "text": "Ok, ok, una aplicación de networking con temática de tarot"
+    },
+    {
+      "start": 541.18,
+      "duration": 1.2,
+      "text": "diseñada para las personas."
+    },
+    {
+      "start": 542.38,
+      "duration": 1.16,
+      "text": "Conecten a un match."
+    },
+    {
+      "start": 543.54,
+      "duration": 2.16,
+      "text": "Ok, bueno, ché, me gustó."
+    },
+    {
+      "start": 545.9,
+      "duration": 2.92,
+      "text": "Uy, my God, orquestador de agentes de API, ok."
+    },
+    {
+      "start": 550.14,
+      "duration": 2.6,
+      "text": "Ok, vamos a, vamos a ver, vamos a trabajar,"
+    },
+    {
+      "start": 553.06,
+      "duration": 1.12,
+      "text": "vamos a trabajar de una."
+    },
+    {
+      "start": 554.18,
+      "duration": 3.23,
+      "text": "A ver, me gustó un poco la idea"
+    },
+    {
+      "start": 558.13,
+      "duration": 2.6,
+      "text": "del, a ver si me pongo un poquito para el costado."
+    },
+    {
+      "start": 560.73,
+      "duration": 0.8,
+      "text": "Ahí estamos."
+    },
+    {
+      "start": 561.53,
+      "duration": 1.64,
+      "text": "Díganme si lo ven bien, lo ven muy chiquito."
+    },
+    {
+      "start": 563.17,
+      "duration": 1.2,
+      "text": "Vamos a agrandarlo."
+    },
+    {
+      "start": 564.37,
+      "duration": 1.8,
+      "text": "Ahí está, lo agrandé bastante."
+    },
+    {
+      "start": 566.17,
+      "duration": 2.0,
+      "text": "Eh, vamos a trabajar."
+    },
+    {
+      "start": 568.17,
+      "duration": 1.6,
+      "text": "Algo que podemos hacer."
+    },
+    {
+      "start": 569.77,
+      "duration": 3.8,
+      "text": "Eh, vamos, eh, la, me gustó esa app de cocinar,"
+    },
+    {
+      "start": 574.05,
+      "duration": 3.48,
+      "text": "de programar la, la cocina de la semana."
+    },
+    {
+      "start": 577.57,
+      "duration": 1.96,
+      "text": "Dos mil preeps y eso."
+    },
+    {
+      "start": 579.53,
+      "duration": 1.28,
+      "text": "Se empiezan a ocurrir algunas ideas,"
+    },
+    {
+      "start": 580.81,
+      "duration": 1.76,
+      "text": "inclusive para meterle."
+    },
+    {
+      "start": 582.57,
+      "duration": 2.64,
+      "text": "Eh, ok, vamos."
+    },
+    {
+      "start": 585.25,
+      "duration": 2.28,
+      "text": "Entonces acá estoy en un, en un, acá está vacío."
+    },
+    {
+      "start": 588.09,
+      "duration": 3.02,
+      "text": "Sí, estoy en un directorio completamente,"
+    },
+    {
+      "start": 591.75,
+      "duration": 3.36,
+      "text": "completamente vacío."
+    },
+    {
+      "start": 595.11,
+      "duration": 1.0,
+      "text": "Sí, está vacío."
+    },
+    {
+      "start": 596.11,
+      "duration": 2.2,
+      "text": "Por eso no dio nada."
+    },
+    {
+      "start": 598.31,
+      "duration": 2.72,
+      "text": "Ok, entonces estoy usando Cloud Code."
+    },
+    {
+      "start": 601.87,
+      "duration": 2.44,
+      "text": "Yo no voy a enseñar en esta semana."
+    },
+    {
+      "start": 604.31,
+      "duration": 1.8,
+      "text": "No vamos a enseñar cosas."
+    },
+    {
+      "start": 606.11,
+      "duration": 3.52,
+      "text": "Voy a hacer, ok, voy a hacer de una."
+    },
+    {
+      "start": 609.99,
+      "duration": 2.89,
+      "text": "Así que vamos a, vamos a arrancar por acá."
+    },
+    {
+      "start": 612.88,
+      "duration": 3.62,
+      "text": "Eh, vamos a, lo que podemos hacer es create."
+    },
+    {
+      "start": 617.55,
+      "duration": 1.96,
+      "text": "Vamos a new product, no?"
+    },
+    {
+      "start": 620.7,
+      "duration": 2.59,
+      "text": "Create product."
+    },
+    {
+      "start": 623.29,
+      "duration": 0.8,
+      "text": "No, start product era."
+    },
+    {
+      "start": 624.09,
+      "duration": 4.03,
+      "text": "Eh, vamos a, a iniciar un producto"
+    },
+    {
+      "start": 628.12,
+      "duration": 4.0,
+      "text": "y lo que le podemos decir es eh, una, una app."
+    },
+    {
+      "start": 632.12,
+      "duration": 2.12,
+      "text": "Bueno, no, no necesariamente una app mobile,"
+    },
+    {
+      "start": 634.24,
+      "duration": 5.0,
+      "text": "pero puede ser, eh, ah, esperen, antes, antes, antes, antes, antes, antes, antes, antes."
+    },
+    {
+      "start": 639.24,
+      "duration": 4.1,
+      "text": "Antes de esto."
+    },
+    {
+      "start": 643.34,
+      "duration": 2.86,
+      "text": "Vamos a movernos a Fable 5."
+    },
+    {
+      "start": 646.2,
+      "duration": 2.32,
+      "text": "Ok, ok."
+    },
+    {
+      "start": 648.52,
+      "duration": 2.16,
+      "text": "Bien, ahora sí, entonces."
+    },
+    {
+      "start": 650.68,
+      "duration": 2.52,
+      "text": "Eh, start product."
+    },
+    {
+      "start": 653.2,
+      "duration": 1.76,
+      "text": "Vamos a comenzar un producto."
+    },
+    {
+      "start": 654.96,
+      "duration": 0.68,
+      "text": "Bien?"
+    },
+    {
+      "start": 655.64,
+      "duration": 7.38,
+      "text": "Entonces, un producto que una app... no, web, que sea responsive, porque se va a usar mucho"
+    },
+    {
+      "start": 663.02,
+      "duration": 9.06,
+      "text": "el celular inclusive, que me permita planificar, dándole los ingredientes que tengo, hago"
+    },
+    {
+      "start": 672.08,
+      "duration": 5.0,
+      "text": "un tipo de relevamiento, que conozco los ingredientes, y que me planifique un mil"
+    },
+    {
+      "start": 677.08,
+      "duration": 8.48,
+      "text": "prep para toda la semana, en donde yo eventualmente podría setearle los objetivos."
+    },
+    {
+      "start": 685.56,
+      "duration": 7.76,
+      "text": "Esta semana mi objetivo es tal, y esto es principalmente orientado a familias, o podría"
+    },
+    {
+      "start": 693.32,
+      "duration": 6.48,
+      "text": "ser jóvenes profesionales con poco tiempo, que viven solos, o podría ser quien se encarga"
+    },
+    {
+      "start": 699.8,
+      "duration": 7.36,
+      "text": "de planificar toda la comida de una familia, con chicos que van al colegio, o a la universidad"
+    },
+    {
+      "start": 707.16,
+      "duration": 1.0,
+      "text": "y ese tipo de cosas."
+    },
+    {
+      "start": 708.16,
+      "duration": 1.12,
+      "text": "Ok."
+    },
+    {
+      "start": 709.28,
+      "duration": 2.89,
+      "text": "Bien."
+    },
+    {
+      "start": 712.17,
+      "duration": 1.58,
+      "text": "Ok."
+    },
+    {
+      "start": 713.75,
+      "duration": 1.48,
+      "text": "Bien."
+    },
+    {
+      "start": 715.23,
+      "duration": 1.0,
+      "text": "Ahí está."
+    },
+    {
+      "start": 716.23,
+      "duration": 1.0,
+      "text": "¿Por qué nos dice?"
+    },
+    {
+      "start": 717.23,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 718.23,
+      "duration": 4.07,
+      "text": "Vamos a arrancar."
+    },
+    {
+      "start": 722.3,
+      "duration": 1.0,
+      "text": "¿Y cómo quedó?"
+    },
+    {
+      "start": 723.3,
+      "duration": 4.12,
+      "text": "Entonces, un producto, una app, que sea responsive, porque va a ser usado en el celular inclusive,"
+    },
+    {
+      "start": 727.42,
+      "duration": 1.0,
+      "text": "que me permita... bien."
+    },
+    {
+      "start": 728.42,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 729.42,
+      "duration": 4.6,
+      "text": "Ahí está creando el overview del producto que vamos a trabajar."
+    },
+    {
+      "start": 734.02,
+      "duration": 1.0,
+      "text": "Esto crea un directorio."
+    },
+    {
+      "start": 735.02,
+      "duration": 1.0,
+      "text": "¿Sí?"
+    },
+    {
+      "start": 736.02,
+      "duration": 6.28,
+      "text": "A ver, vamos a empezar a... lo que estoy haciendo es AI First, ¿de acuerdo?"
+    },
+    {
+      "start": 742.3,
+      "duration": 1.0,
+      "text": "AI First Product Management."
+    },
+    {
+      "start": 743.3,
+      "duration": 1.0,
+      "text": "¿Sí?"
+    },
+    {
+      "start": 744.3,
+      "duration": 1.0,
+      "text": "Entonces, a ver el foco."
+    },
+    {
+      "start": 745.3,
+      "duration": 1.0,
+      "text": "Mencionaste tres segmentos."
+    },
+    {
+      "start": 746.3,
+      "duration": 1.0,
+      "text": "Yo creo que es el familiar."
+    },
+    {
+      "start": 747.3,
+      "duration": 1.0,
+      "text": "Mi intuición."
+    },
+    {
+      "start": 748.3,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 749.3,
+      "duration": 1.0,
+      "text": "Después validaremos eventualmente."
+    },
+    {
+      "start": 750.3,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 751.3,
+      "duration": 1.0,
+      "text": "Planificación familiar."
+    },
+    {
+      "start": 752.3,
+      "duration": 1.0,
+      "text": "Pobre profesional."
+    },
+    {
+      "start": 753.3,
+      "duration": 1.0,
+      "text": "Familia en general."
+    },
+    {
+      "start": 754.3,
+      "duration": 1.0,
+      "text": "Todos por igual."
+    },
+    {
+      "start": 755.3,
+      "duration": 1.0,
+      "text": "Planificación familiar."
+    },
+    {
+      "start": 756.3,
+      "duration": 1.0,
+      "text": "Tal cual."
+    },
+    {
+      "start": 757.3,
+      "duration": 1.0,
+      "text": "Ahí vamos."
+    },
+    {
+      "start": 758.3,
+      "duration": 1.0,
+      "text": "Ahí seteamos el, digamos, el target principal."
+    },
+    {
+      "start": 759.3,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 760.3,
+      "duration": 1.0,
+      "text": "Y ahora, ¿qué voy a hacer?"
+    },
+    {
+      "start": 761.3,
+      "duration": 5.35,
+      "text": "Mientras tanto, lo que podemos hacer... vamos a poner acá..."
+    },
+    {
+      "start": 766.65,
+      "duration": 1.0,
+      "text": "Cloud."
+    },
+    {
+      "start": 767.65,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 768.65,
+      "duration": 1.0,
+      "text": "Vamos a abrir un tab nuevo."
+    },
+    {
+      "start": 769.65,
+      "duration": 1.0,
+      "text": "Y acá voy a usar Code."
+    },
+    {
+      "start": 770.65,
+      "duration": 1.0,
+      "text": "Punto."
+    },
+    {
+      "start": 771.65,
+      "duration": 1.0,
+      "text": "Vamos a abrir..."
+    },
+    {
+      "start": 772.65,
+      "duration": 1.0,
+      "text": "Ahí lo tenemos."
+    },
+    {
+      "start": 773.65,
+      "duration": 1.0,
+      "text": "Excelente."
+    },
+    {
+      "start": 774.65,
+      "duration": 1.0,
+      "text": "Para ir viendo las cositas que vaya creando, porque voy a armar... voy a ir armando"
+    },
+    {
+      "start": 775.65,
+      "duration": 1.0,
+      "text": "algunos..."
+    },
+    {
+      "start": 776.65,
+      "duration": 1.0,
+      "text": "No voy a usar Cloud adentro de Visual Studio."
+    },
+    {
+      "start": 777.65,
+      "duration": 1.0,
+      "text": "Nada, a mí no me gusta."
+    },
+    {
+      "start": 778.65,
+      "duration": 3.59,
+      "text": "¿Sí?"
+    },
+    {
+      "start": 782.24,
+      "duration": 1.0,
+      "text": "Me siento mucho más..."
+    },
+    {
+      "start": 783.24,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 784.24,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 785.24,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 786.24,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 787.24,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 788.24,
+      "duration": 1.8,
+      "text": "Ok."
+    },
+    {
+      "start": 790.04,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 791.04,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 792.04,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 793.04,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 794.04,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 825.94,
+      "duration": 2.24,
+      "text": "¿Qué haría si no le hicieras un clic en los guiones?"
+    },
+    {
+      "start": 828.18,
+      "duration": 3.84,
+      "text": "Podría darme un clic en las بط's al Like."
+    },
+    {
+      "start": 832.02,
+      "duration": 2.3,
+      "text": "¿Qué haría si no le hicieras un clic en las chicas?"
+    },
+    {
+      "start": 834.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 835.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 836.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 837.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 838.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 839.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 840.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 841.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 842.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 843.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 844.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 845.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 846.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 847.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 848.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 849.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 850.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 851.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 852.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 853.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 854.32,
+      "duration": 1.0,
+      "text": "Ok."
+    },
+    {
+      "start": 855.32,
+      "duration": 6.4,
+      "text": "tal cual. Y el mil prep semanal es algo que ya hacen o les cuesta, o algo que aspiran a"
+    },
+    {
+      "start": 861.72,
+      "duration": 4.4,
+      "text": "hacer. ¿Pagarían quién cuánto? ¿La familia cómo gasto del hogar o nadie pagaría por"
+    },
+    {
+      "start": 866.12,
+      "duration": 4.8,
+      "text": "esto? Tiene que ser gratis. Bueno, podríamos eventualmente tirarme tres o cinco creencias."
+    },
+    {
+      "start": 870.92,
+      "duration": 10.74,
+      "text": "Ok, vamos a arrancar. Creo que lo que más duele hoy es la improvisación. A veces repetir"
+    },
+    {
+      "start": 881.66,
+      "duration": 7.76,
+      "text": "siempre lo mismo y caer por ahí en opciones no tan saludables. Hoy lo directamente improvisan"
+    },
+    {
+      "start": 889.42,
+      "duration": 6.56,
+      "text": "cada día. ¿Por qué dejarían esto por tu app? Bueno, porque podrían tener un objetivo"
+    },
+    {
+      "start": 895.98,
+      "duration": 6.36,
+      "text": "y la app los ayudaría a mantenerse con ese objetivo. Es decir, por ejemplo, comida"
+    },
+    {
+      "start": 902.34,
+      "duration": 8.72,
+      "text": "saludable o bajar un poco a los procesados o reducir un poquito el consumo de gaseosas"
+    },
+    {
+      "start": 911.06,
+      "duration": 5.64,
+      "text": "o los fritos, las grasas, ese tipo de cosas. ¿Por qué ingredientes ya tengo como punto"
+    },
+    {
+      "start": 916.7,
+      "duration": 4.32,
+      "text": "de partida? Ah, claro, sí. Porque quieren aprovechar lo que tienen, lo que hay en la"
+    },
+    {
+      "start": 921.02,
+      "duration": 4.2,
+      "text": "heladera. Evitar desperdicios, gastar menos dinero, tratar de ahorrar y aprovechar"
+    },
+    {
+      "start": 925.22,
+      "duration": 4.72,
+      "text": "mejor lo que tenemos. Por ahí hay mucha gente que tiene cosas en la heladera"
+    },
+    {
+      "start": 929.94,
+      "duration": 8.32,
+      "text": "y no tienen o les cuesta encontrar formas creativas de usarlo. Y el mil prep semanal"
+    },
+    {
+      "start": 938.26,
+      "duration": 6.4,
+      "text": "yo creo que algo lo hacen, pero no necesariamente es algo que aspiran. Yo creo que lo aspiran a"
+    },
+    {
+      "start": 944.66,
+      "duration": 5.08,
+      "text": "hacer eventualmente, pero también, aunque les cueste, necesitan organizarse la semana."
+    },
+    {
+      "start": 949.74,
+      "duration": 6.16,
+      "text": "Porque no necesariamente se resuelve con un mil prep, o sea, un día para cocinar,"
+    },
+    {
+      "start": 955.9,
+      "duration": 5.96,
+      "text": "sino más bien podría estar distribuido en el día, pero lo importante es tener claro."
+    },
+    {
+      "start": 962.62,
+      "duration": 5.6,
+      "text": "¿Pagarían? No sé si pagarían, no tengo claro, pero posiblemente podamos sumar partnership,"
+    },
+    {
+      "start": 968.22,
+      "duration": 5.4,
+      "text": "me imagino con ciertos proveedores o distribuidores o supermercados, etcétera,"
+    },
+    {
+      "start": 973.62,
+      "duration": 6.0,
+      "text": "como para obtener descuentos y nuestra monetización pasaría por ese lado."
+    },
+    {
+      "start": 979.94,
+      "duration": 12.2,
+      "text": "Ok, bien, perfecto, ahí lo tenemos, y a ver qué nos dice. Ok,"
+    },
+    {
+      "start": 994.14,
+      "duration": 6.84,
+      "text": "bien, buenísimo, esto ya tengo material, planificador de comidas semanal,"
+    },
+    {
+      "start": 1000.98,
+      "duration": 5.14,
+      "text": "esto lo va a terminar bajando a un overview de producto, ¿de acuerdo?"
+    },
+    {
+      "start": 1006.12,
+      "duration": 5.08,
+      "text": "Dos cosas antes de guardar, ¿le ponemos un nombre al producto o dejamos el provisorio?"
+    },
+    {
+      "start": 1011.2,
+      "duration": 11.88,
+      "text": "¿Qué le puso provisorio? ¿Votemos nombre en el chat? ¿Qué nombre le ponemos en el chat?"
+    },
+    {
+      "start": 1023.08,
+      "duration": 3.88,
+      "text": "Y con eso le ponemos un nombre. Confirmar las creencias tal como quedaron,"
+    },
+    {
+      "start": 1026.96,
+      "duration": 3.24,
+      "text": "a ver cómo quedaron. El error principal es la improvisación diaria, no la cocina en sí."
+    },
+    {
+      "start": 1030.2,
+      "duration": 4.2,
+      "text": "Quien planifica la comida familiar, hoy improvisa cada día y la improvisación lo"
+    },
+    {
+      "start": 1034.4,
+      "duration": 4.24,
+      "text": "lleva a repetir siempre lo mismo o caer en opciones poco saludables. Muy bien."
+    },
+    {
+      "start": 1039.64,
+      "duration": 4.16,
+      "text": "Un objetivo semanal es motivo suficiente para cambiar de hábito, dejarían las improvisaciones"
+    },
+    {
+      "start": 1043.8,
+      "duration": 4.72,
+      "text": "por una app porque los ayuda a sostener su objetivo concreto. ¿Quieres participar de lo"
+    },
+    {
+      "start": 1048.52,
+      "duration": 5.0,
+      "text": "que ya tienen, no de lo que deberían comprar? Lo que necesitan es calidad semanal, no un"
+    },
+    {
+      "start": 1053.52,
+      "duration": 5.8,
+      "text": "meal prep clásico. ¿Algo de organización? Ya hacen, pero no aspiran necesariamente a"
+    },
+    {
+      "start": 1059.88,
+      "duration": 10.14,
+      "text": "cocina. Ok, sumaría algo. También sumaría que eventualmente poder facilitar la compra,"
+    },
+    {
+      "start": 1070.02,
+      "duration": 9.84,
+      "text": "ya sea el mercado o el supermercado, a partir del objetivo de la semana y las comidas de la"
+    },
+    {
+      "start": 1079.86,
+      "duration": 6.04,
+      "text": "semana y lo que tenemos, poder identificar los gaps como para armar una lista de compras."
+    },
+    {
+      "start": 1086.78,
+      "duration": 8.72,
+      "text": "Vamos a sumar eso y a ver qué nombre es. Chef House. ¿Qué comemos hoy? ¿Cuál repos?"
+    },
+    {
+      "start": 1095.5,
+      "duration": 8.4,
+      "text": "Meal Pilot. ¿Qué comemos? Hay comida. Nutri Friend. Day to Day. ¿Qué comemos?"
+    },
+    {
+      "start": 1103.9,
+      "duration": 7.48,
+      "text": "Me gustó el que comemos. Cocina entretenida. Nimpro. Muy bien. Cocina agéntica. Lista de"
+    },
+    {
+      "start": 1111.38,
+      "duration": 14.84,
+      "text": "compras semanal, quincenal o mensual. Ok, perfecto. Próximo paso. Antes de generar las personas"
+    },
+    {
+      "start": 1126.22,
+      "duration": 7.04,
+      "text": "o demás, sumemos que la lista de compras no es necesariamente semanal, sino que se podría"
+    },
+    {
+      "start": 1133.26,
+      "duration": 4.84,
+      "text": "llegar a armar mensual eventualmente si una persona quisiera armar un plan mensual en vez"
+    },
+    {
+      "start": 1138.1,
+      "duration": 7.59,
+      "text": "de un plan semanal. Sería así. Le voy a sacar el sería así, porque ahí estamos. Bien, lo mandamos."
+    },
+    {
+      "start": 1147.69,
+      "duration": 8.85,
+      "text": "¿Qué comemos? Se va a llamar ¿qué comemos? Nombre. Vamos a ponerle nombre. ¿Qué comemos?"
+    },
+    {
+      "start": 1156.54,
+      "duration": 11.32,
+      "text": "Perfecto. Bien. ¿Qué comemos? Ok, listo. Vamos para A. Tranquilo. ¿Quiere ponerse acá?"
+    },
+    {
+      "start": 1167.86,
+      "duration": 6.18,
+      "text": "Tenemos entonces, vamos a tener el overview de nuestro producto. ¿Qué comemos? Una Web"
+    },
+    {
+      "start": 1174.04,
+      "duration": 3.64,
+      "text": "Responsive Model First, que se usa mucho desde el celular, que planifica las comidas de la semana"
+    },
+    {
+      "start": 1177.68,
+      "duration": 3.32,
+      "text": "de una familia a partir de los ingredientes. Bueno, no voy a repetir todo. Lo tenemos ahí,"
+    },
+    {
+      "start": 1181.0,
+      "duration": 4.41,
+      "text": "¿de acuerdo? ¿Para quién las personas que se cargan de planificar toda la comida? Ok,"
+    },
+    {
+      "start": 1185.41,
+      "duration": 7.16,
+      "text": "bien. ¿Hacemos las personas? Vamos a crear las personas. Bien. Entonces sí, vamos a generar"
+    },
+    {
+      "start": 1192.57,
+      "duration": 10.16,
+      "text": "las personas. ¿Qué podríamos tener? Yo pondría tres personas. Una primaria, secundaria,"
+    },
+    {
+      "start": 1202.73,
+      "duration": 11.45,
+      "text": "terciaria y una contrafáctica sería una negativa, ¿no? Vamos a ponerle cuatro personas. Una"
+    },
+    {
+      "start": 1214.18,
+      "duration": 18.41,
+      "text": "primaria, secundaria, terciaria y negativa. La anti persona. Ok, perfecto. Buenísimo."
+    },
+    {
+      "start": 1232.59,
+      "duration": 9.74,
+      "text": "La suscripción. Un diseño sin metodología, con lo primero que se me viene a la cabeza. ¿Cómo? No,"
+    },
+    {
+      "start": 1242.33,
+      "duration": 4.84,
+      "text": "no estamos en la etapa de diseño todavía, ni entramos en diseño. Martín, ¿qué usas para"
+    },
+    {
+      "start": 1247.17,
+      "duration": 13.43,
+      "text": "dedicarlo? Whisperflow. Lo estoy haciendo en cloud, en cloud code. Bien. Morfía. Ok,"
+    },
+    {
+      "start": 1260.8,
+      "duration": 5.8,
+      "text": "a ver, me estoy armando las personas sintéticas. Nunca trabajen en base a personas sintéticas,"
+    },
+    {
+      "start": 1266.6,
+      "duration": 7.06,
+      "text": "nosotros las hacemos simplemente para acelerar algunos pasos, pero siempre validando y"
+    },
+    {
+      "start": 1273.66,
+      "duration": 6.24,
+      "text": "corroborando con personas reales, obviamente, ¿no? Acá el overview de qué comemos. Generó el"
+    },
+    {
+      "start": 1279.9,
+      "duration": 3.48,
+      "text": "set de cuatro primarias, perdón, cuatro primarias, secundaria, terciaria y la anti"
+    },
+    {
+      "start": 1283.38,
+      "duration": 4.52,
+      "text": "persona. No hay personas previas en pro persona, así que arranco de cero. Muy bien. Analista"
+    },
+    {
+      "start": 1287.9,
+      "duration": 6.36,
+      "text": "contable casada con dos hijos, carga sola con el que comemos hoy de cuatro personas todos los días"
+    },
+    {
+      "start": 1294.26,
+      "duration": 4.68,
+      "text": "después del trabajo, improvisa frente a la heladera a las 19 horas, repite las milanesas y fideos."
+    },
+    {
+      "start": 1298.94,
+      "duration": 4.32,
+      "text": "Bien, recupera las opciones de poco saludable, tech media, usa WhatsApp, el banco poco más"
+    },
+    {
+      "start": 1303.26,
+      "duration": 4.92,
+      "text": "escéptico. Tomás Ferreira, persona secundaria, el joven profesional solo, desarrollador en una"
+    },
+    {
+      "start": 1308.18,
+      "duration": 5.28,
+      "text": "fintech, vive solo en un departamento chico, tech alta, early adopter, compra con buenas"
+    },
+    {
+      "start": 1313.46,
+      "duration": 4.2,
+      "text": "intenciones los domingos, tira la mitad de la verdura el viernes y pide de libre y"
+    },
+    {
+      "start": 1317.66,
+      "duration": 4.2,
+      "text": "tres o cuatro veces por semana. Su dolor es la plata desperdiciada y el objetivo que nunca sostiene"
+    },
+    {
+      "start": 1321.86,
+      "duration": 4.8,
+      "text": "este mes como sano más que el tiempo. Bueno, puede ser, vamos a validarlo eventualmente."
+    },
+    {
+      "start": 1328.3,
+      "duration": 4.44,
+      "text": "Graciela Paniagua, persona terciaria, la abuela a cargo, compradora mensual,"
+    },
+    {
+      "start": 1332.74,
+      "duration": 5.56,
+      "text": "cubilada docente, cocina diario para ella, su marido de dos nietos que almuerzan en su casa"
+    },
+    {
+      "start": 1338.3,
+      "duration": 6.64,
+      "text": "los días de colegio, hace una compra grande mensual y mayoritaria. Ok, está bien. Tech baja,"
+    },
+    {
+      "start": 1344.94,
+      "duration": 4.64,
+      "text": "WhatsApp con audios, letra grande, planifica de memoria y de papel, su sistema funciona pero se"
+    },
+    {
+      "start": 1349.58,
+      "duration": 3.92,
+      "text": "le vencen cosas en el freezer. Hernán, antipersona, el cocinero por inspiración,"
+    },
+    {
+      "start": 1353.5,
+      "duration": 4.96,
+      "text": "diseñador freelance, foodie, cocinar es su hobby y su descompresión, va a la feria,"
+    },
+    {
+      "start": 1358.46,
+      "duration": 4.24,
+      "text": "ve que está lindo, improvisa, para él la improvisación no es el problema, es el placer,"
+    },
+    {
+      "start": 1362.7,
+      "duration": 5.48,
+      "text": "ok, y ayuda a detectar features, pero jamás va a adoptar que comemos y ayuda a detectar"
+    },
+    {
+      "start": 1368.18,
+      "duration": 4.36,
+      "text": "features que lo atraerían a él pero no a Valeria. Muy bien, para eso queremos las"
+    },
+    {
+      "start": 1372.54,
+      "duration": 5.28,
+      "text": "antipersonas, de acuerdo, aquellas personas para las que no vamos a desarrollar porque no es"
+    },
+    {
+      "start": 1377.82,
+      "duration": 4.88,
+      "text": "nuestra tarea. Diversidad cubierta, edad de 21 años, tech baja, horizontal, ok,"
+    },
+    {
+      "start": 1382.7,
+      "duration": 12.69,
+      "text": "un escéptico estructural, ajusto algo, nombres, vamos a, espera, analiza la cobertura y"
+    },
+    {
+      "start": 1395.39,
+      "duration": 9.33,
+      "text": "sugiere cualquier gap. Por ejemplo, algo que se me viene a la cabeza, por ejemplo,"
+    },
+    {
+      "start": 1404.72,
+      "duration": 7.6,
+      "text": "usuarios indirectos, usuarios que no van a usar la app pero que por ahí tienen opinión o pueden"
+    },
+    {
+      "start": 1412.32,
+      "duration": 7.0,
+      "text": "dar mal feedback acerca del resultado, me imagino yo como, por ejemplo, los comensales de alguna"
+    },
+    {
+      "start": 1419.32,
+      "duration": 10.87,
+      "text": "forma, ok. Estos skills vienen con nuestro curso de AI First Product Management, después"
+    },
+    {
+      "start": 1430.19,
+      "duration": 11.39,
+      "text": "también los tenemos, a ver, qué nos da, a ver las dimensiones, buen punto, qué cubrimos y qué"
+    },
+    {
+      "start": 1441.58,
+      "duration": 8.66,
+      "text": "no cubrimos, ok, tenemos el comensal con poder de veto, usuario indirecto, es importante"
+    },
+    {
+      "start": 1450.24,
+      "duration": 5.76,
+      "text": "tenerlos en cuenta, no, el partner comercial, stakeholder o monetización, ok, y el menor,"
+    },
+    {
+      "start": 1456.0,
+      "duration": 5.44,
+      "text": "perdón, hogar con restricciones duras, no aspiracional, sumar el comensal adolescente,"
+    },
+    {
+      "start": 1461.44,
+      "duration": 4.52,
+      "text": "sí o sí, valida la creencia 2 del lado que la puede romper y el partner comercial si vas"
+    },
+    {
+      "start": 1465.96,
+      "duration": 7.48,
+      "text": "a testear la creencia 5 pronto, la creencia 5 era, me olvidé, ¿cuál era la creencia 5?"
+    },
+    {
+      "start": 1473.44,
+      "duration": 13.78,
+      "text": "Frescáme la memoria, a ver, no, me tiró cualquier cosa, vamos a cancelar, vamos a ponerlo, ¿cuál era?"
+    },
+    {
+      "start": 1487.22,
+      "duration": 12.59,
+      "text": "¿Cuál era la creencia 5? La creencia 5 es el overview de la monetización, el usuario final no"
+    },
+    {
+      "start": 1499.81,
+      "duration": 4.88,
+      "text": "pagaría o no lo suficiente, la monetización viable no es suscripción del usuario sino"
+    },
+    {
+      "start": 1504.69,
+      "duration": 3.96,
+      "text": "partners y comprovedores, distribuidores, supermercados vía descuentos, ¿bueno que surgió?"
+    },
+    {
+      "start": 1508.65,
+      "duration": 5.73,
+      "text": "Está bien, ok, por eso el gap 2 y la plata viene, ok, sí, sumo las dos, de 6 personas,"
+    },
+    {
+      "start": 1514.94,
+      "duration": 5.96,
+      "text": "entonces vamos a tener 6 personas, entonces una que es la antipersona, dos que tienen que ver con"
+    },
+    {
+      "start": 1520.9,
+      "duration": 5.88,
+      "text": "usuarios indirectos, un primario, secundario y terciario, ¿de acuerdo? Son sintéticos,"
+    },
+    {
+      "start": 1526.78,
+      "duration": 7.72,
+      "text": "bien, esto habrá que validarlo eventualmente, ok, estoy viendo cómo venimos de tiempo,"
+    },
+    {
+      "start": 1534.5,
+      "duration": 6.28,
+      "text": "vamos bien, acuérdense que tenemos una hora cada día, ok, el desafío es el viernes construir"
+    },
+    {
+      "start": 1540.78,
+      "duration": 10.41,
+      "text": "el producto y que quede subido para que quien quiera lo puede bajar, bien, a ver, a ver,"
+    },
+    {
+      "start": 1553.59,
+      "duration": 10.8,
+      "text": "¿qué tenemos por acá? Está creando las personas, a ver, Valeria Domínguez es nuestra"
+    },
+    {
+      "start": 1564.39,
+      "duration": 4.28,
+      "text": "primera persona, persona primaria de la planificadora familiar, nadie me pregunta"
+    },
+    {
+      "start": 1568.67,
+      "duration": 4.2,
+      "text": "si quiero decidir que comemos, simplemente asume, asumió que era mujer la planificadora"
+    },
+    {
+      "start": 1572.87,
+      "duration": 8.91,
+      "text": "semanal, puede ser mujer, hombre, tomémoslo como viene, role, analista contable en una pime"
+    },
+    {
+      "start": 1581.78,
+      "duration": 4.4,
+      "text": "a cargo de la planificación de comidas, age range 40-45, son urbana, suburbana,"
+    },
+    {
+      "start": 1586.18,
+      "duration": 5.25,
+      "text": "este era que tenía dos hijos, ¿no? sí, dos hijos comenzaron menos fritos a sacarse"
+    },
+    {
+      "start": 1591.43,
+      "duration": 3.84,
+      "text": "encima de la carga mental, dejar de tirar comida, sentir que tiene el hogar bajo control,"
+    },
+    {
+      "start": 1595.27,
+      "duration": 6.84,
+      "text": "frustraciones, medio machista, medio machista este fable, ok, pero bueno, vamos a tomarlo,"
+    },
+    {
+      "start": 1602.11,
+      "duration": 6.2,
+      "text": "vamos a seguir para no enroscarnos en un spaghetti, improvisa la cena frente a la heladera abierta,"
+    },
+    {
+      "start": 1608.31,
+      "duration": 4.24,
+      "text": "cansada, termina cayendo siempre en lo mismo, milanesa con puré, fido con tuco,"
+    },
+    {
+      "start": 1612.55,
+      "duration": 4.48,
+      "text": "tarta de jamón, queso, calcula que rota 7-8 platos hace años, cuando intenta comer algo"
+    },
+    {
+      "start": 1617.03,
+      "duration": 5.72,
+      "text": "mejor el intento dura semanas, sin plan, la primera noche complicada, ok, bien, decidir"
+    },
+    {
+      "start": 1622.75,
+      "duration": 3.92,
+      "text": "que resolver la cena diaria, una compra grande, cada uno revisar la heladera,"
+    },
+    {
+      "start": 1626.67,
+      "duration": 4.55,
+      "text": "negociar con los hijos, negociar de lunes a viernes, debates preferidos, primaria,"
+    },
+    {
+      "start": 1631.22,
+      "duration": 3.96,
+      "text": "celular, android y gama media, todo lo hace ahí, whatsapp, homebank y mercado libre,"
+    },
+    {
+      "start": 1635.18,
+      "duration": 5.04,
+      "text": "secundario, notebook del trabajo solo para trabajar, usa pocas apps y le tienen poca paciencia,"
+    },
+    {
+      "start": 1640.22,
+      "duration": 5.76,
+      "text": "si algo quiere, yo me suena, ¿qué le ponemos? del 1 al 5, ¿qué puntaje le ponen a Valeria"
+    },
+    {
+      "start": 1645.98,
+      "duration": 7.23,
+      "text": "Dominguez como personaje primario? del 1 al 5, ¿qué le pondrían a Valeria, que es la"
+    },
+    {
+      "start": 1653.21,
+      "duration": 9.61,
+      "text": "primaria? a ver, vamos, le voy a pedir que haga una review igual, ¿para qué? para la memoria,"
+    },
+    {
+      "start": 1662.82,
+      "duration": 11.03,
+      "text": "que haga un índice, ok, todavía está trabajando, 3, 3, 3, 4, 3, ok, bien, 5,"
+    },
+    {
+      "start": 1673.85,
+      "duration": 8.8,
+      "text": "3, 4, 5, 5, 4, 5, 3, 4, 5, yo también estoy ahí, 4, 5, ok, ustedes te decían,"
+    },
+    {
+      "start": 1682.65,
+      "duration": 5.77,
+      "text": "pregunta de nuevo, diversidad, próximo paso, entrevista a una persona, no, vamos a, crea un"
+    },
+    {
+      "start": 1688.42,
+      "duration": 12.2,
+      "text": "readme markdown en el root de personas o un index markdown describiendo a alto nivel el rol de"
+    },
+    {
+      "start": 1700.62,
+      "duration": 8.72,
+      "text": "cada persona en el producto, si es primaria, secundaria, terciaria, etcétera, ok, es que"
+    },
+    {
+      "start": 1709.34,
+      "duration": 3.64,
+      "text": "lo que quiero, quiero acá en personas, quiero que ponga un índice, porque tenemos 5 personas,"
+    },
+    {
+      "start": 1713.14,
+      "duration": 4.72,
+      "text": "esto va a consumir mucho token cuando lo quiera leer el contexto, entonces le ponemos un índice,"
+    },
+    {
+      "start": 1717.86,
+      "duration": 6.28,
+      "text": "yo le pongo un índice, como para, generalmente si se llama index o se llama readme, va directo"
+    },
+    {
+      "start": 1724.14,
+      "duration": 7.72,
+      "text": "a levantarlo, ahí está readme, con el resumen de las personas para que sea más fácil levantar"
+    },
+    {
+      "start": 1731.86,
+      "duration": 4.15,
+      "text": "índice, ustedes decían personas sintéticas, Valeria, Domingo, persona primaria, Ferreira,"
+    },
+    {
+      "start": 1736.01,
+      "duration": 6.4,
+      "text": "ok, excelente, cobertura del set, edad de 17 a 21, teclita de edad baja, graciela alta,"
+    },
+    {
+      "start": 1742.81,
+      "duration": 4.6,
+      "text": "experiencias en dominio, tenemos gente novata, gente experta, tipo de hogar, unipersonal,"
+    },
+    {
+      "start": 1747.41,
+      "duration": 3.32,
+      "text": "familiar, multigeneracional, o sea que tenemos bien cubiertas las primeras 3 dimensiones,"
+    },
+    {
+      "start": 1750.73,
+      "duration": 5.76,
+      "text": "4 perdón, horizonte de planificación semanal y mensual, bien, y relación con el producto,"
+    },
+    {
+      "start": 1756.49,
+      "duration": 4.04,
+      "text": "usuario directo, usuario indirecto, antipersona, tenemos buena cobertura en las dimensiones"
+    },
+    {
+      "start": 1760.53,
+      "duration": 8.05,
+      "text": "de personas, ok, así que excelente, bien, acá tenemos esto hecho, el próximo paso que"
+    },
+    {
+      "start": 1769.58,
+      "duration": 5.52,
+      "text": "esto me quiere mandar a interview, quiere que las entrevistes, pero no quiero entrevistarlas"
+    },
+    {
+      "start": 1775.1,
+      "duration": 5.96,
+      "text": "todavía, ok, lo que vamos a hacer antes es un research de mercado, a ver qué hay,"
+    },
+    {
+      "start": 1781.06,
+      "duration": 6.16,
+      "text": "con qué nos encontramos, de acuerdo, voy a compactar mientras la conversación para,"
+    },
+    {
+      "start": 1787.22,
+      "duration": 4.2,
+      "text": "yo sé que teníamos muy poquito, la verdad que teníamos muy poquito contexto, no sé"
+    },
+    {
+      "start": 1791.42,
+      "duration": 6.16,
+      "text": "para qué lo estoy compactando, básicamente, pero teníamos 6% de contexto, lo vamos a"
+    },
+    {
+      "start": 1797.58,
+      "duration": 8.4,
+      "text": "compactar igual, no pasa nada, no pasa nada, porque ahora voy a lanzar un research de mercado,"
+    },
+    {
+      "start": 1805.98,
+      "duration": 3.92,
+      "text": "quiero hacer, lo voy a usar con subagentes para mantener nuestro contexto de olivianito,"
+    },
+    {
+      "start": 1810.94,
+      "duration": 4.24,
+      "text": "que se carguen y que se inflen los subagentes, no nuestro thread principal,"
+    },
+    {
+      "start": 1815.18,
+      "duration": 3.88,
+      "text": "y a ver qué encontramos, ok, que encontramos en el mercado, bien,"
+    },
+    {
+      "start": 1819.06,
+      "duration": 11.11,
+      "text": "y después, bueno, la idea es que la app a la que lleguemos, ah, tiene, es importante,"
+    },
+    {
+      "start": 1830.17,
+      "duration": 5.6,
+      "text": "no voy a usar plataformas de deployment, base de datos, terceras, vamos a ver si lo hacemos"
+    },
+    {
+      "start": 1835.77,
+      "duration": 5.88,
+      "text": "algo que sea self-running, que lo pueda bajar y ejecutar, así que me imagino que desde el"
+    },
+    {
+      "start": 1841.65,
+      "duration": 4.16,
+      "text": "punto de vista técnico, y esto va a estar recién, más o menos, vamos a hablar de esto"
+    },
+    {
+      "start": 1846.45,
+      "duration": 5.24,
+      "text": "acercándonos al viernes, seguramente, me imagino algo que podría llegar a ser con esto,"
+    },
+    {
+      "start": 1851.69,
+      "duration": 11.23,
+      "text": "podrían dar un MySQL, no MySQL, no me acuerdo el nombre ahora, pero tenemos,"
+    },
+    {
+      "start": 1862.92,
+      "duration": 5.2,
+      "text": "hay una base de datos que se pueden beber, facilita, que tiene el documento,"
+    },
+    {
+      "start": 1868.12,
+      "duration": 4.76,
+      "text": "es una base de datos, no es documental, es racional, pero está el documento,"
+    },
+    {
+      "start": 1872.88,
+      "duration": 4.04,
+      "text": "ahora no sé el nombre, MySQL se me viene a la cabeza, pero no es a la que me refiero,"
+    },
+    {
+      "start": 1876.92,
+      "duration": 6.04,
+      "text": "MySQL tampoco, no, Postgre, no, no voy a usar Postgre para esto, salvo que le pongo"
+    },
+    {
+      "start": 1882.96,
+      "duration": 5.28,
+      "text": "un Docker, pero va a ser para el 80% de la gente, va a ser difícil levantar,"
+    },
+    {
+      "start": 1888.24,
+      "duration": 4.4,
+      "text": "SQLite, ahí está, SQLite, vamos a levantar SQLite, exactamente, va a ser super fácil eso,"
+    },
+    {
+      "start": 1892.64,
+      "duration": 10.34,
+      "text": "ok, lo que quiero es hacer un research, de acuerdo, research market, bien, research market,"
+    },
+    {
+      "start": 1904.22,
+      "duration": 5.88,
+      "text": "y lo vamos a hacer con el overview, lo va a tomar por default el overview, pero lo que sí lo vamos"
+    },
+    {
+      "start": 1910.1,
+      "duration": 8.2,
+      "text": "a decir es, el target audience es Latinoamérica en general y podríamos incluir España,"
+    },
+    {
+      "start": 1918.3,
+      "duration": 4.68,
+      "text": "España va a contaminar un poco porque culturalmente Europa es bastante distinto"
+    },
+    {
+      "start": 1922.98,
+      "duration": 6.08,
+      "text": "a Latinoamérica hispana, así que no, no lo incluyas a España, vamos a targetear,"
+    },
+    {
+      "start": 1929.06,
+      "duration": 3.6,
+      "text": "por lo menos el research este vamos a targetearlo en Latinoamérica hispana,"
+    },
+    {
+      "start": 1932.66,
+      "duration": 3.44,
+      "text": "que yo me imagino que vamos a tener bastantes desafíos interesantes,"
+    },
+    {
+      "start": 1937.54,
+      "duration": 11.14,
+      "text": "y revisa el overview del producto, ok, ahí estamos, bueno, vamos a ver, hoy no le dije que haga,"
+    },
+    {
+      "start": 1950.44,
+      "duration": 11.51,
+      "text": "utiliza subagentes para el research, ahí está, listo, siento que me están hablando en chino,"
+    },
+    {
+      "start": 1962.59,
+      "duration": 6.15,
+      "text": "bueno, básicamente tenemos nuestras personas, tenemos nuestro overview del producto, el producto"
+    },
+    {
+      "start": 1968.74,
+      "duration": 5.96,
+      "text": "está, ya sabemos lo que vamos a construir, o por lo menos hacia dónde vamos a investigar,"
+    },
+    {
+      "start": 1974.7,
+      "duration": 5.64,
+      "text": "vamos a ver, qué haría yo, si vemos con el research este que no es viable,"
+    },
+    {
+      "start": 1980.34,
+      "duration": 7.68,
+      "text": "es posible que no sea viable, lo vamos a hacer igual, para aprovechar el tiempo que ya"
+    },
+    {
+      "start": 1988.02,
+      "duration": 6.16,
+      "text": "tenemos, tener el libro conductor de la semana y que sirva como ejemplo, ok, vamos a suponer,"
+    },
+    {
+      "start": 1994.18,
+      "duration": 4.44,
+      "text": "vamos a suponer que el research dio bien, lo cual no necesariamente vaya a ser así,"
+    },
+    {
+      "start": 1998.62,
+      "duration": 5.96,
+      "text": "acuerdo, esto está comenzando a hacer el research, ahí está leyendo el skill,"
+    },
+    {
+      "start": 2006.38,
+      "duration": 11.52,
+      "text": "ahí está levantando los agentes, un background de propósito general, ok, otro de alternativas"
+    },
+    {
+      "start": 2017.9,
+      "duration": 9.92,
+      "text": "y no consumo, perfecto, y necesito un par más, me harían falta un par más, ok, bueno,"
+    },
+    {
+      "start": 2027.82,
+      "duration": 6.36,
+      "text": "últimamente los pedí, ahí está, pricing, modelo de negocio, muy bien, y por ahí algo de"
+    },
+    {
+      "start": 2034.18,
+      "duration": 5.0,
+      "text": "purchase party, bueno, eso no porque no vamos a hacer suscripción, así que eso no sería"
+    },
+    {
+      "start": 2039.18,
+      "duration": 8.94,
+      "text": "necesario, ok, posicionamiento, está bien, go to market, me parece, me sumí la métrica de consumo"
+    },
+    {
+      "start": 2048.12,
+      "duration": 6.55,
+      "text": "de tokens, no, pero lo tengo en porcentajes ahí abajo, así que llevamos el 5% del contexto,"
+    },
+    {
+      "start": 2054.67,
+      "duration": 6.24,
+      "text": "tengo el 5% del consumo de la ventana de 5 horas y tengo de la semana el 9% consumido,"
+    },
+    {
+      "start": 2060.91,
+      "duration": 3.56,
+      "text": "ok, tiene un pricing ahí, pero no es el pricing porque yo estoy con suscripción,"
+    },
+    {
+      "start": 2064.47,
+      "duration": 14.76,
+      "text": "así que el pricing de API no cuenta, ok, bien, Diego dice, toda esa rutina de que te pidió"
+    },
+    {
+      "start": 2079.23,
+      "duration": 7.72,
+      "text": "primero el overview, descripción y eso, no, eso es una serie, un método que creamos nosotros"
+    },
+    {
+      "start": 2086.95,
+      "duration": 7.55,
+      "text": "a partir de nuestras experiencias, creamos skills alrededor de ese método de trabajo,"
+    },
+    {
+      "start": 2094.5,
+      "duration": 7.56,
+      "text": "que es esta forma de trabajar, igual no quiero vender el método ni nada, y bueno, ya que estás"
+    },
+    {
+      "start": 2102.06,
+      "duration": 5.32,
+      "text": "que vendemos, es el que enseñamos en el AI First Product Management, ok, entre otras"
+    },
+    {
+      "start": 2107.38,
+      "duration": 6.68,
+      "text": "cosas, no, tiene un montón de nimidades y de bericuetos, tanto el método como los diferentes"
+    },
+    {
+      "start": 2114.06,
+      "duration": 6.88,
+      "text": "skills, yo estoy usando una pequeña cantidad a hacer lo que estamos haciendo. FableSide ya pasó"
+    },
+    {
+      "start": 2120.94,
+      "duration": 6.94,
+      "text": "a estar por API, sí, pero yo lo estoy usando por suscripción a FableFi. No sé si estaban"
+    },
+    {
+      "start": 2127.88,
+      "duration": 7.09,
+      "text": "preparados los subagentes, sí, ahí están, ahí están, tenemos cinco subagentes, ok, están"
+    },
+    {
+      "start": 2134.97,
+      "duration": 4.88,
+      "text": "consumiendo tokens, sí, acá tienen 38 mil, 50 mil, 43 mil, están consumiendo tokens,"
+    },
+    {
+      "start": 2139.85,
+      "duration": 5.36,
+      "text": "pero el contexto nuestro lo deberíamos dejar, vamos a ver que se aumentan estos dos, el de"
+    },
+    {
+      "start": 2145.21,
+      "duration": 3.76,
+      "text": "cinco, el de la ventana de cinco horas va a aumentar, el de siete días va a aumentar,"
+    },
+    {
+      "start": 2148.97,
+      "duration": 3.84,
+      "text": "obviamente, porque tenemos subagentes consumiendo, pero nuestro contexto,"
+    },
+    {
+      "start": 2152.81,
+      "duration": 3.76,
+      "text": "el de este thread principal, se va a quedar, se va a clavar en seis, ok,"
+    },
+    {
+      "start": 2156.57,
+      "duration": 6.76,
+      "text": "va a subir un poquito, pero no va a subir tanto, bien. No es mejor hacer el discovery"
+    },
+    {
+      "start": 2163.33,
+      "duration": 7.04,
+      "text": "en otra IA para consumir menos tokens, lo está haciendo otra IA. Ahora, ¿a qué hora arranca mañana?"
+    },
+    {
+      "start": 2170.37,
+      "duration": 10.8,
+      "text": "Misma hora, misma hora, sí. Bien, pregunta, ¿utilizas alguna metodología en específico para"
+    },
+    {
+      "start": 2181.17,
+      "duration": 5.28,
+      "text": "todo el desarrollo? Sí, usamos un método que armamos nosotros a partir de, ya desde que"
+    },
+    {
+      "start": 2186.45,
+      "duration": 9.01,
+      "text": "veníamos con XPEC, que tenemos un método de trabajo que aplicamos con todos nuestros clientes,"
+    },
+    {
+      "start": 2195.46,
+      "duration": 5.12,
+      "text": "en nuestros productos también, es el que el que enseñamos en el IA First Product Management,"
+    },
+    {
+      "start": 2200.58,
+      "duration": 9.37,
+      "text": "también, con los skills y demás. Sí, pero dependerá de la calidad del output que quieras,"
+    },
+    {
+      "start": 2209.95,
+      "duration": 4.88,
+      "text": "bueno, me sube la pregunta si es una metodología específica, sí, ya respondí eso, buenísimo."
+    },
+    {
+      "start": 2214.83,
+      "duration": 7.79,
+      "text": "Bien, ¿use a Sonnet? No, ¿por qué voy a usar Sonnet si tengo disponible FableFive?"
+    },
+    {
+      "start": 2222.62,
+      "duration": 13.96,
+      "text": "Eso es algo que los quiero llamar a reflexión, ¿no? Si tenés disponibles a modelos, perdón,"
+    },
+    {
+      "start": 2236.58,
+      "duration": 9.2,
+      "text": "si estás con una suscripción chiquita y querés minimizar el gasto, sí, está bien,"
+    },
+    {
+      "start": 2245.78,
+      "duration": 8.64,
+      "text": "pero tenemos tenemos el 9%, acuérdense que Sonnet consume el 50% de la ventana semanal,"
+    },
+    {
+      "start": 2254.42,
+      "duration": 10.91,
+      "text": "yo tengo una suscripción de 20x, max 20x, ¿por qué usaría Sonnet? ¿Lo puedo usar? Sí,"
+    },
+    {
+      "start": 2265.33,
+      "duration": 8.2,
+      "text": "es una opción que tenemos, pero no me va a frenar en nada usar Sonnet o usar FableFive,"
+    },
+    {
+      "start": 2273.53,
+      "duration": 7.42,
+      "text": "van a generar un research de menor calidad, no tiene sentido. Ahora, si te impacta y estás"
+    },
+    {
+      "start": 2280.95,
+      "duration": 6.48,
+      "text": "corto de tokens, sí, ahí sí, pero si no, no, con estos porcentajes, con esta situación no tiene"
+    },
+    {
+      "start": 2287.43,
+      "duration": 6.59,
+      "text": "sentido si vamos a construir un producto, en una semana estamos sobrados acá. Tercer carril listo,"
+    },
+    {
+      "start": 2294.02,
+      "duration": 4.62,
+      "text": "tendencias de mercado, los bien todos, macro empujan fuerte a favor, obesidad infantil record"
+    },
+    {
+      "start": 2298.64,
+      "duration": 5.16,
+      "text": "con leyes de sello de los cuatro países, ok, llegó el segundo carril, hallazgo fuertes,"
+    },
+    {
+      "start": 2303.8,
+      "duration": 3.56,
+      "text": "el competidor real es el flujo humano, una mujer que decide a diario sin plan,"
+    },
+    {
+      "start": 2307.36,
+      "duration": 5.68,
+      "text": "sin 23% no planifica, cómprase en el estudio chileno, ok, encontró varios estudios que ya"
+    },
+    {
+      "start": 2313.04,
+      "duration": 8.22,
+      "text": "están hechos, qué bueno eso. ¿Cuál sería el mejor curso para alguien que inicia de cero"
+    },
+    {
+      "start": 2321.26,
+      "duration": 7.24,
+      "text": "con temas de agentes de ya y viene del project management? Y Ana, bueno Ana, vos hiciste el"
+    },
+    {
+      "start": 2328.5,
+      "duration": 10.32,
+      "text": "DPM de alguna forma. Tenemos la variante, en realidad el AI First Product Management es la"
+    },
+    {
+      "start": 2338.82,
+      "duration": 9.12,
+      "text": "evolución del DPM con inteligencia artificial, en donde hacemos todo el proceso, el mismo proceso"
+    },
+    {
+      "start": 2347.94,
+      "duration": 6.88,
+      "text": "que vos aprendiste en el DPM pero lo llevamos con cloud y con skills o también con codecs"
+    },
+    {
+      "start": 2354.82,
+      "duration": 8.84,
+      "text": "porque los skills son plugins que se enchufan en diferentes agentes. Estoy usando Ghosty,"
+    },
+    {
+      "start": 2363.66,
+      "duration": 7.54,
+      "text": "la terminal de Ghosty. Llegó el quinto carril, competidores directos, tengo los 5 sintetizos y"
+    },
+    {
+      "start": 2371.2,
+      "duration": 7.64,
+      "text": "armo el artefacto de research. Ok, perfecto, vamos a esperar la síntesis. ¿Cómo programas el"
+    },
+    {
+      "start": 2378.84,
+      "duration": 8.36,
+      "text": "consumo para que te siga en porcentajes o tú lo has puesto? Esto lo podés cambiar. Hay un comando,"
+    },
+    {
+      "start": 2387.2,
+      "duration": 5.26,
+      "text": "no me acuerdo ahora cuál es el comando, status line creo que se llama, status line acá, status"
+    },
+    {
+      "start": 2392.46,
+      "duration": 5.68,
+      "text": "line. No lo voy a ejecutar ahora porque voy a arruinar esto, pero vas a status line y ahí"
+    },
+    {
+      "start": 2398.14,
+      "duration": 6.12,
+      "text": "te podés configurar lo que querés que te muestre. Yo tengo el contexto, acá tengo"
+    },
+    {
+      "start": 2404.26,
+      "duration": 6.08,
+      "text": "el repositorio, acá no se muestra el branch, pero si estuviéramos en un repositorio cuando lo"
+    },
+    {
+      "start": 2410.34,
+      "duration": 7.1,
+      "text": "hagamos repositorio a esto, va a estar en branch. Vas a ver acá en qué branch estás. El contexto"
+    },
+    {
+      "start": 2417.44,
+      "duration": 6.48,
+      "text": "actual, el porcentaje usado de la ventana de 5 horas y el porcentaje usado semanal. Y este"
+    },
+    {
+      "start": 2423.92,
+      "duration": 5.84,
+      "text": "costo es el costo simplemente de referencia de las actividades, pero la verdad que no lo pago"
+    },
+    {
+      "start": 2429.76,
+      "duration": 4.08,
+      "text": "porque estoy con la suscripción, no pagas, pero si esto fuera por API, sí es lo que vas pagando."
+    },
+    {
+      "start": 2433.84,
+      "duration": 5.84,
+      "text": "¿Te puede usar BDS Code? Sí, se puede usar BDS Code. ¿Los agentes los tenías previamente armados?"
+    },
+    {
+      "start": 2439.68,
+      "duration": 6.8,
+      "text": "No, no los tengo previamente armados, lo tiene el skill. El skill tiene, si yo le pido suba"
+    },
+    {
+      "start": 2446.48,
+      "duration": 7.8,
+      "text": "agentes, sabe cómo armarlos si no los hace en el thread principal. Vamos a esperar que termine."
+    },
+    {
+      "start": 2454.28,
+      "duration": 4.68,
+      "text": "Esto va a generar una carpeta, una carpeta que se llame research, acá dentro del producto"
+    },
+    {
+      "start": 2458.96,
+      "duration": 4.92,
+      "text": "va a generar research. Esto después se los dejo subido a github para que lo tengan de referencia."
+    },
+    {
+      "start": 2463.88,
+      "duration": 15.88,
+      "text": "¿Sería el costo y costo para el usuario si usas API? Si no, no. Ahí está levantando la"
+    },
+    {
+      "start": 2479.76,
+      "duration": 6.36,
+      "text": "fecha porque todos los, hay ciertos artefactos que los tenemos fechados, por ejemplo tanto"
+    },
+    {
+      "start": 2486.12,
+      "duration": 6.8,
+      "text": "overview como personas no, porque son digamos transversales, atemporales llamémoslo. Pero"
+    },
+    {
+      "start": 2492.92,
+      "duration": 6.8,
+      "text": "por ejemplo un research va con fecha, ¿de acuerdo? Ahí está. Fecha de hoy con la hora 12.42 local,"
+    },
+    {
+      "start": 2499.72,
+      "duration": 9.51,
+      "text": "esa es la fecha, la hora del research, ¿bien? Ok, entonces ahora que tenemos el research,"
+    },
+    {
+      "start": 2509.23,
+      "duration": 6.07,
+      "text": "espero que me voy a tomar nota de algo, lo que vamos a hacer es que compare las"
+    },
+    {
+      "start": 2515.3,
+      "duration": 4.12,
+      "text": "personas con el research y después vamos a hacer el diseño del thread de una encuesta,"
+    },
+    {
+      "start": 2519.42,
+      "duration": 5.56,
+      "text": "ok? Para, a ver, ¿qué tenemos? A ver, termino el research, los 5 carriles corrieron, bien,"
+    },
+    {
+      "start": 2524.98,
+      "duration": 4.76,
+      "text": "3 hallazgos. El cuadrante está técnicamente ocupado pero comercialmente vacante y el"
+    },
+    {
+      "start": 2529.74,
+      "duration": 5.96,
+      "text": "riesgo real no es la demanda, es el hábito. Despensa plan lista por gaps, ya existe."
+    },
+    {
+      "start": 2535.7,
+      "duration": 6.6,
+      "text": "Como feature secundaria de FITIA, peruana, white combinator, 10 millones de usuarios,"
+    },
+    {
+      "start": 2542.3,
+      "duration": 6.04,
+      "text": "pero fitness individual, ok. Como índice de interacción, 16 reseñas y como buscadores"
+    },
+    {
+      "start": 2548.34,
+      "duration": 4.88,
+      "text": "de recetas super cook. Nadie lo vende como producto central para la familia en español"
+    },
+    {
+      "start": 2553.22,
+      "duration": 6.28,
+      "text": "latinoamericano pero el cementerio es elocuente. Yomli, cerrada, viene bien Perú con el dominio"
+    },
+    {
+      "start": 2559.5,
+      "duration": 5.16,
+      "text": "caído y Noodle que juntó 1.4 millones de usuarios en español con exactamente la promesa"
+    },
+    {
+      "start": 2564.66,
+      "duration": 4.44,
+      "text": "cocinar con lo que tenés, igual quebró. Todas mueren en el mismo lugar, mantener"
+    },
+    {
+      "start": 2569.1,
+      "duration": 6.72,
+      "text": "el inventario al día recae en el usuario. Ok, tu credencia 5 sale muy bien parada. El"
+    },
+    {
+      "start": 2575.82,
+      "duration": 5.12,
+      "text": "techo de precio consumer está anclado bajo, obviamente, esto se cae de maduro,"
+    },
+    {
+      "start": 2580.94,
+      "duration": 4.76,
+      "text": "me acuerdo, 7 al 5 dólares por mes, la mitad en latam, que William compra 5,"
+    },
+    {
+      "start": 2585.7,
+      "duration": 6.68,
+      "text": "mientras tanto el retail media latam mueve 2.2, obviamente. Por eso una de las cosas que dije"
+    },
+    {
+      "start": 2592.38,
+      "duration": 6.0,
+      "text": "es no esto no es monetizable usuario final, mi primer corazonada es esto es monetizable"
+    },
+    {
+      "start": 2598.38,
+      "duration": 4.44,
+      "text": "por proveedor, no por usuario final. Rapi ads es el más del 50% del reivindio de rapi,"
+    },
+    {
+      "start": 2602.82,
+      "duration": 4.72,
+      "text": "es el precedente de producto exacto, muy bien, whisky o samsung food, nunca vivió del usuario,"
+    },
+    {
+      "start": 2607.54,
+      "duration": 4.52,
+      "text": "vivió de retailers, esto se cae de maduro. O sea, corroborado en el research, muy bien,"
+    },
+    {
+      "start": 2612.06,
+      "duration": 8.6,
+      "text": "pero esto es ABC. El competidor a desplazar es un flujo humano, bien, gendered y chagpt,"
+    },
+    {
+      "start": 2620.66,
+      "duration": 5.0,
+      "text": "ya lo están capturando y gratis. La decisión recae casi exclusivamente en una mujer,"
+    },
+    {
+      "start": 2625.66,
+      "duration": 7.2,
+      "text": "mira, yo le dije machista y al final el research, obviamente, dio un poco de esa"
+    },
+    {
+      "start": 2632.86,
+      "duration": 4.8,
+      "text": "tendencia, ¿no? La decisión recae casi exclusivamente en una mujer, 100% en el estudio"
+    },
+    {
+      "start": 2637.66,
+      "duration": 6.96,
+      "text": "chileno, 10-13 horas semanales en México, pero sus 4.7 los hombres, mayoritariamente sin"
+    },
+    {
+      "start": 2644.62,
+      "duration": 7.79,
+      "text": "plan, 53% no planifica compras y la prensa argentina ya publica tutoriales del prompt"
+    },
+    {
+      "start": 2652.41,
+      "duration": 5.52,
+      "text": "exacto, incluso uso los zapallitos que tenía en la heladera, que comemos tiene que ganar en lo"
+    },
+    {
+      "start": 2657.93,
+      "duration": 5.12,
+      "text": "que un chat no retiene, estado persistente, de despensa, objetivo, uy, se me ocurre un feature"
+    },
+    {
+      "start": 2663.05,
+      "duration": 4.64,
+      "text": "que va a estar bueno para sumar, me lo voy a guardar para mañana el feature, mañana lo"
+    },
+    {
+      "start": 2667.69,
+      "duration": 4.2,
+      "text": "cuento, pero se me viene a la cabeza algo que va a estar bueno, me parece,"
+    },
+    {
+      "start": 2671.89,
+      "duration": 4.64,
+      "text": "2% de despensa, objetivo, bonus regional, la compra es fragmentada en 6-7 canales con"
+    },
+    {
+      "start": 2676.53,
+      "duration": 3.92,
+      "text": "tiendas de barrio cada 5 días, el supuesto ángulo de una lista de compra semanal no"
+    },
+    {
+      "start": 2680.45,
+      "duration": 6.48,
+      "text": "describe la región, es cierto eso, solamente metrópolis, grandes metrópolis, impacto de"
+    },
+    {
+      "start": 2686.93,
+      "duration": 4.93,
+      "text": "tus 5 credencias, a ver, primera credencia, el dolor es la improvisación diaria, apoya con matiz,"
+    },
+    {
+      "start": 2691.86,
+      "duration": 4.32,
+      "text": "la improvisación está probada, 53% no planifica, carga mental, invisible en 5 países,"
+    },
+    {
+      "start": 2696.18,
+      "duration": 5.34,
+      "text": "pero que exista no prueba que se viva como dolor accionable, es cierto, un objetivo"
+    },
+    {
+      "start": 2701.52,
+      "duration": 5.68,
+      "text": "semanal, cambia el hábito, no dice nada, interacción declarativa altísima, ok,"
+    },
+    {
+      "start": 2707.28,
+      "duration": 5.52,
+      "text": "pero brecha de declaración, acción notoria, obviamente, esto debe haber sido una encuesta"
+    },
+    {
+      "start": 2712.8,
+      "duration": 5.64,
+      "text": "que se hizo muy en qué harías, cómo te gustaría qué, entonces tenemos ese gap entre lo declarativo"
+    },
+    {
+      "start": 2718.44,
+      "duration": 5.64,
+      "text": "y lo fáctico, que emerge generalmente en este tipo de encuestas, sigue siendo la"
+    },
+    {
+      "start": 2724.08,
+      "duration": 6.48,
+      "text": "creencia más frágil y la que Juli rompe en la mesa, ok, a partir de lo que ya tienen,"
+    },
+    {
+      "start": 2730.56,
+      "duration": 4.36,
+      "text": "apoya la demanda, cuestiona la sostenibilidad, el gasto es masivo, pero nadie sostuvo el"
+    },
+    {
+      "start": 2734.92,
+      "duration": 3.8,
+      "text": "hábito de relevar la despensa, la pregunta, bueno, este es el feature que a mí se me"
+    },
+    {
+      "start": 2738.72,
+      "duration": 4.04,
+      "text": "ocurre que puede andar bien, mañana se los cuento, yo creo que este puede andar muy"
+    },
+    {
+      "start": 2742.76,
+      "duration": 3.84,
+      "text": "bien, claridad semanal, no mill prep, no dice nada directo, aporta matiz fuerte,"
+    },
+    {
+      "start": 2746.6,
+      "duration": 3.74,
+      "text": "ok, el usuario no pagaría partners, apoya fuerte, presente exacto, whisker,"
+    },
+    {
+      "start": 2750.34,
+      "duration": 5.66,
+      "text": "chizcori, fechi, rapid ads y plata real creciendo, fictia cobra 19 por mes vendiéndose"
+    },
+    {
+      "start": 2756.0,
+      "duration": 4.64,
+      "text": "como nutricionista, ok, un veredicto que te invito a desafiar en particular,"
+    },
+    {
+      "start": 2760.64,
+      "duration": 4.48,
+      "text": "puse la creencia 3 como apoya, cuestiona, en vez de apoya listo, porque la evidencia de"
+    },
+    {
+      "start": 2765.12,
+      "duration": 3.68,
+      "text": "mortandad me pasó más que la de la demanda, si no estás de acuerdo,"
+    },
+    {
+      "start": 2771.54,
+      "duration": 9.47,
+      "text": "a ver, creencia 3, a partir de lo que ya tienen, ¿de qué me habla? me empezó más que la de la"
+    },
+    {
+      "start": 2781.01,
+      "duration": 6.51,
+      "text": "semana, ¿de qué? dame un poco más de contexto de la creencia 3 y la de la evidencia de"
+    },
+    {
+      "start": 2787.52,
+      "duration": 4.33,
+      "text": "mortandad, ¿de qué me estás hablando? lo que dice es que no pudo tocar en la agenda de"
+    },
+    {
+      "start": 2791.85,
+      "duration": 11.05,
+      "text": "primario, la creencia 2 entrega la fricción tolerable, ok, bien, imagino que se imagine"
+    },
+    {
+      "start": 2802.9,
+      "duration": 4.2,
+      "text": "a mortandad de aplicaciones, no a mortandad de... claro, la creencia 3 del overview dice,"
+    },
+    {
+      "start": 2807.1,
+      "duration": 4.72,
+      "text": "quieren partir de lo que ya tienen, no de lo que deberían comprar, que aprovecha la"
+    },
+    {
+      "start": 2811.82,
+      "duration": 5.8,
+      "text": "heladera, evitar desperdicios, gastar menos, es la creencia fundacional de que comemos todo"
+    },
+    {
+      "start": 2817.62,
+      "duration": 3.48,
+      "text": "el producto a ranga en el normamiento de la despensa, lo que encontró el research es que"
+    },
+    {
+      "start": 2821.1,
+      "duration": 3.8,
+      "text": "esa creencia tiene dos mitades y la evidencia de la tarta muy difícil, la mitad sale"
+    },
+    {
+      "start": 2824.9,
+      "duration": 5.32,
+      "text": "reforzada, supercook, noodle, fitia, un app cuyo único truco es decirme que ingredientes"
+    },
+    {
+      "start": 2830.22,
+      "duration": 5.12,
+      "text": "tenés y te muestro solo, ok, noodle, ok, por qué pese la mortandad más que la demanda,"
+    },
+    {
+      "start": 2835.34,
+      "duration": 4.04,
+      "text": "ok, porque los dos tipos de evidencia no responden a la misma pregunta, esto está claro,"
+    },
+    {
+      "start": 2839.38,
+      "duration": 4.24,
+      "text": "las descargas de supercook y los 1.4 millones de noodles prueban que la gente quiere la"
+    },
+    {
+      "start": 2843.62,
+      "duration": 5.08,
+      "text": "respuesta puntual, ¿qué hago hoy con esto? los cadáveres prueban que nadie logró que la"
+    },
+    {
+      "start": 2848.7,
+      "duration": 6.7,
+      "text": "gente sostenga el insumo, ok, está bien, está usando la metáfora de la muerte de"
+    },
+    {
+      "start": 2855.4,
+      "duration": 4.72,
+      "text": "las aplicaciones, yo dije ¿qué tendrá que ver el tema de la montarda? ¿la consecuencia"
+    },
+    {
+      "start": 2860.12,
+      "duration": 6.44,
+      "text": "práctica? la pregunta de discovery no es, la gente quiere partido, ok, bien, no, lo"
+    },
+    {
+      "start": 2866.56,
+      "duration": 8.68,
+      "text": "vamos a entrevistar a personas todavía, voy a decir, a ver si yo lo guardo, actualiza,"
+    },
+    {
+      "start": 2875.24,
+      "duration": 5.88,
+      "text": "el research, antes de perderlo vamos a ver si están las fuentes, yo lo que quiero asegurarme"
+    },
+    {
+      "start": 2881.12,
+      "duration": 5.33,
+      "text": "que estén las fuentes del research, lo pongo así para que lo vean linda, research, acá"
+    },
+    {
+      "start": 2886.45,
+      "duration": 8.67,
+      "text": "tenemos fecha, carril 1 competibles y están todas las fuentes, perfecto, excelente, muy bien,"
+    },
+    {
+      "start": 2895.12,
+      "duration": 7.3,
+      "text": "impactan las creencias, esto ya lo vimos, ¿qué sigue necesitando? ok, entonces no vamos"
+    },
+    {
+      "start": 2902.42,
+      "duration": 8.04,
+      "text": "a ir con el research, lo que le vamos a pedir es, quiero diseñar una encuesta,"
+    },
+    {
+      "start": 2910.46,
+      "duration": 18.73,
+      "text": "design survey, ahí estamos, y le vamos a pasar el research de recién, este, perfecto, con esto"
+    },
+    {
+      "start": 2929.19,
+      "duration": 7.26,
+      "text": "vamos a diseñar una encuesta para hacer, sería un research secundario, de acuerdo, para"
+    },
+    {
+      "start": 2936.45,
+      "duration": 5.16,
+      "text": "ver qué es lo que opina la gente, dónde están las creencias que tenemos que sostener"
+    },
+    {
+      "start": 2941.61,
+      "duration": 3.84,
+      "text": "o validar, dónde están las hipótesis que vamos a validar, cuáles son las hipótesis que vamos"
+    },
+    {
+      "start": 2945.45,
+      "duration": 9.18,
+      "text": "a terminar descartando, y también, me voy a anticipar un poquito, después se las paso"
+    },
+    {
+      "start": 2954.63,
+      "duration": 5.4,
+      "text": "acá en el chat, los que tienen ganas de responderla, la responden, respondanla desde"
+    },
+    {
+      "start": 2960.03,
+      "duration": 12.36,
+      "text": "ustedes, posta, de verdad, no la hay en Mefiquen, así tenemos un buen insumo para mañana, y lo"
+    },
+    {
+      "start": 2972.39,
+      "duration": 3.52,
+      "text": "que vamos a hacer, y yo me voy a adelantar en esto, es voy a diseñar una entrevista también,"
+    },
+    {
+      "start": 2975.91,
+      "duration": 3.2,
+      "text": "quiero diseñar una entrevista, y ya tengo algunas personas que se me ocurre que puedo"
+    },
+    {
+      "start": 2979.11,
+      "duration": 4.0,
+      "text": "entrevistar con esto, a ver, confirmar los objetivos de aprendizaje de la encuesta,"
+    },
+    {
+      "start": 2983.11,
+      "duration": 3.56,
+      "text": "¿qué queremos aprender con la encuesta? planifican y previsan, obviamente,"
+    },
+    {
+      "start": 2986.67,
+      "duration": 11.38,
+      "text": "pues es uno de los dolores principales, ¿no? ¿Con qué lo resuelven hoy? Decide contra qué"
+    },
+    {
+      "start": 2998.05,
+      "duration": 6.24,
+      "text": "compite, ¿cuánto se pierde en la frecuencia de tirar comida? Ok, vamos con este. ¿Cómo"
+    },
+    {
+      "start": 3004.29,
+      "duration": 6.36,
+      "text": "compran? ¿Canales, frecuencia, compra, grande? Bueno, me gustaría... Bueno, listo, con esto estamos."
+    },
+    {
+      "start": 3011.25,
+      "duration": 8.24,
+      "text": "Respondentes, ¿a quién podéis llegar con la encuesta y por qué canal? ¿Red propia,"
+    },
+    {
+      "start": 3019.49,
+      "duration": 4.32,
+      "text": "más conocidos, comunidades, grupos, panel pago todavía? No, vamos a ir comunidades,"
+    },
+    {
+      "start": 3023.81,
+      "duration": 4.44,
+      "text": "grupos, grupos de Facebook, tipo, hoy que comemos, se los paso a ustedes, y lo voy a"
+    },
+    {
+      "start": 3028.25,
+      "duration": 3.96,
+      "text": "distribuir, y entre gente conocida también lo pueden distribuir ustedes, y vamos a ver"
+    },
+    {
+      "start": 3032.21,
+      "duration": 4.48,
+      "text": "mañana qué nos encontramos. ¿Idioma en español, neutro latinoamericano? Perfecto."
+    },
+    {
+      "start": 3037.69,
+      "duration": 6.2,
+      "text": "Dale, armame la encuesta, es una encuesta, ¿sí? Esto es un research secundario,"
+    },
+    {
+      "start": 3043.89,
+      "duration": 4.64,
+      "text": "después vamos a pasar a la entrevista, que sería más... Bueno, no, esto podríamos decir"
+    },
+    {
+      "start": 3048.53,
+      "duration": 4.64,
+      "text": "que es primario, la encuesta con este nivel de target, el primero que hicimos,"
+    },
+    {
+      "start": 3053.17,
+      "duration": 3.76,
+      "text": "el primer research que hicimos fue secundario, este research que estamos ahora haciendo ahora"
+    },
+    {
+      "start": 3056.93,
+      "duration": 4.96,
+      "text": "con encuesta, estamos pasando al primario. Y lo vamos a achicar un poco más con la"
+    },
+    {
+      "start": 3061.89,
+      "duration": 7.11,
+      "text": "entrevista, ahora voy a pedirle que diseñe una entrevista, pero me quiero ir hoy, a ver cuánto"
+    },
+    {
+      "start": 3069.0,
+      "duration": 3.68,
+      "text": "tiempo tenemos, bueno, tenemos poquito tiempo, pero me quiero ir hoy con una encuesta andando,"
+    },
+    {
+      "start": 3072.68,
+      "duration": 6.72,
+      "text": "para tener información para el día de mañana, y con una entrevista diseñada,"
+    },
+    {
+      "start": 3079.4,
+      "duration": 4.74,
+      "text": "la entrevista yo generalmente la testeo contra las personas también, vamos a ver si"
+    },
+    {
+      "start": 3084.14,
+      "duration": 4.64,
+      "text": "lo puedo hacer eventualmente, y si no lo hago mañana, mañana hacemos, terminamos esa fase,"
+    },
+    {
+      "start": 3088.78,
+      "duration": 11.08,
+      "text": "ok, de la entrevista, bien, ok, no es una credencia que estemos nosotros, nuestra"
+    },
+    {
+      "start": 3099.86,
+      "duration": 5.36,
+      "text": "credencia es si los distribuyores pagarían, y tenemos evidencia de que sí, en el research,"
+    },
+    {
+      "start": 3105.22,
+      "duration": 13.53,
+      "text": "de hecho es la evidencia más fuerte, ok, bien, lo que estoy armando acá es la encuesta,"
+    },
+    {
+      "start": 3119.19,
+      "duration": 7.09,
+      "text": "qué voy a hacer, entonces aquí en el survey vamos a tener nuestra encuesta, ok, entonces tengo"
+    },
+    {
+      "start": 3126.28,
+      "duration": 3.76,
+      "text": "cómo resuelven las comidas de los hogares de Latinoamérica, learning goals, acá están los"
+    },
+    {
+      "start": 3130.04,
+      "duration": 5.42,
+      "text": "objetivos de aprendizaje, a quién está destinado, es una pregunta de screening, quién decía"
+    },
+    {
+      "start": 3135.46,
+      "duration": 4.46,
+      "text": "habitualmente qué se come en tu hogar, principalmente yo, yo compartí con otra persona,"
+    },
+    {
+      "start": 3139.92,
+      "duration": 6.16,
+      "text": "otra persona, descalifica si es otra persona, muy bien, preguntas bloqueadas, planificación,"
+    },
+    {
+      "start": 3146.64,
+      "duration": 5.52,
+      "text": "pensando en la última semana, cómo decidió qué comer cada día, cómo se decidió qué comer en"
+    },
+    {
+      "start": 3152.16,
+      "duration": 4.92,
+      "text": "cada día en tu hogar, decidió en el momento, se decidió el mismo día, se decidió el día anterior,"
+    },
+    {
+      "start": 3157.08,
+      "duration": 3.88,
+      "text": "había un plan para varios días de la semana, había un plan completo para toda la semana,"
+    },
+    {
+      "start": 3160.96,
+      "duration": 4.46,
+      "text": "en el último mes, con qué frecuencia te pasó de llegar a la hora de cocinar, está bien,"
+    },
+    {
+      "start": 3165.42,
+      "duration": 4.96,
+      "text": "estoy mirando básicamente que las preguntas no estén sesgadas a la creencia de la persona,"
+    },
+    {
+      "start": 3170.38,
+      "duration": 5.32,
+      "text": "sino que estén targueteando costumbres, con qué frecuencia sientes, ok,"
+    },
+    {
+      "start": 3175.7,
+      "duration": 5.68,
+      "text": "esto sería las herramientas que usas hoy para organizar, en el último mes,"
+    },
+    {
+      "start": 3181.38,
+      "duration": 5.44,
+      "text": "una vez descargaste para planificar comidas, recetas, ok, con qué frecuencia se compran"
+    },
+    {
+      "start": 3186.82,
+      "duration": 6.95,
+      "text": "alimentos en tu hogar, compras grandes versus reposición, define el horizonte, ok,"
+    },
+    {
+      "start": 3193.77,
+      "duration": 4.32,
+      "text": "dónde se compran los alimentos en tu hogar, supermercado mayorista, esto nos va a dar la"
+    },
+    {
+      "start": 3198.09,
+      "duration": 5.28,
+      "text": "viabilidad de alguna forma de tener distribuidores, cuantos canales conviven por hogar, canasta de"
+    },
+    {
+      "start": 3203.37,
+      "duration": 5.96,
+      "text": "supuesto, una lista, un súper, exactamente, al igual, antes de ir a comprar, qué haces normalmente,"
+    },
+    {
+      "start": 3209.33,
+      "duration": 6.32,
+      "text": "reviso qué hay, bien, y acá dejamos una abierta segmentación para después nosotros tomar,"
+    },
+    {
+      "start": 3215.65,
+      "duration": 10.92,
+      "text": "ok, perfecto, bien, ahí me convence, me convence, ok, eso lo podemos analizar,"
+    },
+    {
+      "start": 3226.57,
+      "duration": 8.93,
+      "text": "lo que le voy a pedir es, no sé si tenemos el mcp, déjenme ver, subí, sí lo tenemos, genial,"
+    },
+    {
+      "start": 3235.5,
+      "duration": 11.62,
+      "text": "sí, crea el google font para la encuesta, ya sabe qué es esta, pero por las dudas,"
+    },
+    {
+      "start": 3247.12,
+      "duration": 14.47,
+      "text": "se la voy a forzar, ahí está, bien, lo que le estoy pidiendo ahora es que a partir de esta encuesta"
+    },
+    {
+      "start": 3261.59,
+      "duration": 7.44,
+      "text": "me arme el google font, si, una vez que tenga el google font se los paso y lo distribuimos,"
+    },
+    {
+      "start": 3269.03,
+      "duration": 6.42,
+      "text": "mientras tanto, mientras tanto, algo que voy a hacer, no necesito un work tree,"
+    },
+    {
+      "start": 3275.45,
+      "duration": 10.98,
+      "text": "no necesito un work tree, ah no, pero vamos a dejarlo terminar, no nos volvamos locos, vamos a"
+    },
+    {
+      "start": 3286.43,
+      "duration": 12.38,
+      "text": "ahí, vamos a dejarlo terminar y armamos la interview, ok, una entrevista, revisamos la"
+    },
+    {
+      "start": 3298.81,
+      "duration": 14.23,
+      "text": "entrevista, ya les paso la encuesta, estamos justito en tiempo, bien, bueno, vamos a"
+    },
+    {
+      "start": 3313.04,
+      "duration": 3.88,
+      "text": "esperarlo, que termine con el google font, una vez que lo tenga, se los muestro a ver qué"
+    },
+    {
+      "start": 3316.92,
+      "duration": 11.75,
+      "text": "tenemos por acá, qué nos da, qué salió, ok, y lo compartimos, no acepto el texto en la opción"
+    },
+    {
+      "start": 3328.67,
+      "duration": 11.99,
+      "text": "other, la corrige con la opción other, claro, después les paso, bueno, el mcp, también les"
+    },
+    {
+      "start": 3340.66,
+      "duration": 24.05,
+      "text": "puedo pasar eventualmente, el github, me voy a ver acá, trip, mcp, me lo encuentro, bueno,"
+    },
+    {
+      "start": 3364.71,
+      "duration": 6.66,
+      "text": "después se lo busco, después se lo busco rápido, listo, google font lo tenemos, para responder,"
+    },
+    {
+      "start": 3371.37,
+      "duration": 10.05,
+      "text": "está acá, así que vamos a verlo, ok, a ver qué tenemos, ¿cómo se resuelven las comidas en tu hogar?"
+    },
+    {
+      "start": 3381.42,
+      "duration": 4.27,
+      "text": "Muy bien, una encuesta breve, menos de cinco minutos, sobre cómo se decide,"
+    },
+    {
+      "start": 3387.69,
+      "duration": 8.04,
+      "text": "quién decide, esta tenía que descartar, perfecto, descartó, principalmente yo, siguiente,"
+    },
+    {
+      "start": 3395.73,
+      "duration": 9.12,
+      "text": "que habilitó, bueno, voy a revisar que las preguntas sean las indicadas, aparentemente"
+    },
+    {
+      "start": 3404.85,
+      "duration": 7.92,
+      "text": "sí, no veo por qué desconfiar, y esto me está, sí, exactamente, diseña la entrevista para la"
+    },
+    {
+      "start": 3412.77,
+      "duration": 5.84,
+      "text": "Crencia 2, por qué, escriben con descalificación real, la primera pregunta, quién decide que se"
+    },
+    {
+      "start": 3418.61,
+      "duration": 5.36,
+      "text": "come en tu hogar, ah, lo que voy a hacer antes de eso, y ya dejamos este tema listo, voy a"
+    },
+    {
+      "start": 3423.97,
+      "duration": 11.93,
+      "text": "asegurarme que tenga permisos, está publicada, está publicada, y anyone, vamos a poner lo"
+    },
+    {
+      "start": 3435.9,
+      "duration": 10.67,
+      "text": "que lo pueda hacer cualquiera, está, respondo el view, anyone with the link, ahora sí, perfecto,"
+    },
+    {
+      "start": 3446.57,
+      "duration": 9.5,
+      "text": "done, bien, copy, save, y ahora se las pago en el chat, ok, les pego la encuesta en el chat,"
+    },
+    {
+      "start": 3456.07,
+      "duration": 9.24,
+      "text": "pumba, ahí les llega el link, ok, y cuéntennos, llénenla como si fueran ustedes, así trabajamos"
+    },
+    {
+      "start": 3465.31,
+      "duration": 12.96,
+      "text": "mañana con esto, ok, y tenemos ya dato de mercado, de posible mercado, ok, en el de"
+    },
+    {
+      "start": 3478.27,
+      "duration": 4.64,
+      "text": "Product Builder usamos, no, en el Product Builder usamos otras skills, otro set de skills"
+    },
+    {
+      "start": 3482.91,
+      "duration": 5.68,
+      "text": "grande también, amplio, pero específicamente para construcción del producto, en estos skills"
+    },
+    {
+      "start": 3488.59,
+      "duration": 5.56,
+      "text": "los usamos en el I-First Product Management, bueno, diseña la guía de entrevista para la"
+    },
+    {
+      "start": 3494.15,
+      "duration": 4.44,
+      "text": "creencia 2, dice esto, a ver, 12 preguntas, esto está, esto está, dos cosas para verificar"
+    },
+    {
+      "start": 3498.59,
+      "duration": 6.37,
+      "text": "a la mano en la vista, edición, anti-distribuirla, pone, ok, está bien, ok, no, no quiero"
+    },
+    {
+      "start": 3504.96,
+      "duration": 4.96,
+      "text": "recopilar dirección de correo, les pido una respuesta, sí, eso sí, esperen que"
+    },
+    {
+      "start": 3509.92,
+      "duration": 14.58,
+      "text": "configuración, settings, genial, ya tenemos respuestas, bien, a ver dónde estaba eso,"
+    },
+    {
+      "start": 3524.5,
+      "duration": 10.2,
+      "text": "ok, esperen que en configuración esté desactivado, recopilar la dirección de correo,"
+    },
+    {
+      "start": 3534.7,
+      "duration": 9.12,
+      "text": "eso está activado, y limpiar una respuesta, solo si te sirve, ok, todavía no pasa nada,"
+    },
+    {
+      "start": 3543.82,
+      "duration": 6.56,
+      "text": "pero dónde está, dónde está eso que no lo encuentro, a ver, a ver, acá puede ser,"
+    },
+    {
+      "start": 3550.38,
+      "duration": 7.56,
+      "text": "configuración, estoy buscando que no me acuerdo dónde estaba, a ver, manage, esto está,"
+    },
+    {
+      "start": 3557.94,
+      "duration": 5.48,
+      "text": "pero acá ya estuvimos y no es donde necesito estar, pero no lo encuentro, dónde estaba,"
+    },
+    {
+      "start": 3563.42,
+      "duration": 10.24,
+      "text": "a ver, en settings, make, dice quiz, responses, no, no colectes, y limit to one response,"
+    },
+    {
+      "start": 3573.66,
+      "duration": 7.84,
+      "text": "ahí está, listo, hecho, bien, todo listo y ya tenemos 17 respuestas, excelente, muy bien,"
+    },
+    {
+      "start": 3581.5,
+      "duration": 7.9,
+      "text": "compártanla con gente que tengan ganas de completar una encuesta, ok, y vamos a terminar"
+    },
+    {
+      "start": 3589.4,
+      "duration": 11.54,
+      "text": "de cerrar, quiero diseñar la entrevista, dame las creencias más críticas y menos cubiertas"
+    },
+    {
+      "start": 3600.94,
+      "duration": 19.56,
+      "text": "por la encuesta, estoy leyendo mientras tanto, para transformar la entrevista actualmente lo que"
+    },
+    {
+      "start": 3620.5,
+      "duration": 7.71,
+      "text": "podemos hacer es filtrar, creencia dos, un objetivo semanal es motivo suficiente para cambiar de"
+    },
+    {
+      "start": 3628.21,
+      "duration": 5.08,
+      "text": "hábito, la más crítica, creencia tres, la mitad del hábito sostiene el reglamento de la"
+    },
+    {
+      "start": 3633.29,
+      "duration": 5.24,
+      "text": "despensa, ok, para eso tengo una ganancia, si me ocurre algo interesante, creencia cinco,"
+    },
+    {
+      "start": 3638.53,
+      "duration": 6.0,
+      "text": "el usuario no pagaría partnership, cobertura cero, está bien que sea así, pagarias,"
+    },
+    {
+      "start": 3645.53,
+      "duration": 14.11,
+      "text": "es el antipatrón número uno, ok, lo podríamos hacer, y no quiero cejarlo, vamos a que diseñe la"
+    },
+    {
+      "start": 3659.64,
+      "duration": 6.74,
+      "text": "entrevista, ok, que diseñe la entrevista con las creencias dos y tres, la cinco no la necesito"
+    },
+    {
+      "start": 3666.38,
+      "duration": 11.56,
+      "text": "ahora, bien, y después lo último que vamos a hacer es testear si la entrevista compila"
+    },
+    {
+      "start": 3677.94,
+      "duration": 11.28,
+      "text": "contra las personas, ok, que realmente no estemos, lo que podemos hacer lo vamos a hacer correr"
+    },
+    {
+      "start": 3689.22,
+      "duration": 5.76,
+      "text": "contra una persona, ok, por lo menos la primaria, que ande bien con la primaria, ok, primaria"
+    },
+    {
+      "start": 3694.98,
+      "duration": 7.04,
+      "text": "podemos hacer la secundaria también y ver qué pasa con la con el antipersona, con eso vamos"
+    },
+    {
+      "start": 3702.02,
+      "duration": 9.84,
+      "text": "a estar bien, y ahí sí me voy a pasar a fable, bueno, no sé, tiene el 10% semanal,"
+    },
+    {
+      "start": 3711.86,
+      "duration": 5.76,
+      "text": "creo que nos va a alcanzar bien, perdona, sonet, no, me voy a pasar a opus 5 para hacer esa"
+    },
+    {
+      "start": 3717.62,
+      "duration": 6.16,
+      "text": "partecita, pero voy a compactar antes, ok, vamos a dejarlo quedarme la encuesta,"
+    },
+    {
+      "start": 3723.78,
+      "duration": 3.24,
+      "text": "cuánto tiempo tenemos, estamos un poco pasados, bueno, nos pasamos 10 minutos más,"
+    },
+    {
+      "start": 3727.02,
+      "duration": 12.12,
+      "text": "tan para 10 minutos más, ok, los pasos que hicimos hoy, dice sol la lista, lo fui medio"
+    },
+    {
+      "start": 3739.14,
+      "duration": 6.24,
+      "text": "improvisando, ok, hicimos primero creamos el producto, después a partir del producto"
+    },
+    {
+      "start": 3745.38,
+      "duration": 6.04,
+      "text": "hicimos un research de mercado, a partir del research, no, después, no, perdón, a partir"
+    },
+    {
+      "start": 3751.42,
+      "duration": 5.34,
+      "text": "del producto diseñamos personas, extrajimos personas sintéticas, después diseñamos,"
+    },
+    {
+      "start": 3756.76,
+      "duration": 4.84,
+      "text": "hicimos el research de mercado, de acuerdo, después del research de mercado,"
+    },
+    {
+      "start": 3761.6,
+      "duration": 11.53,
+      "text": "que hicimos, hicimos la encuesta, si, hicimos la encuesta, cuando estuvimos diseñando a las"
+    },
+    {
+      "start": 3773.13,
+      "duration": 7.05,
+      "text": "personas hicimos un par de vueltas, ok, acá tenemos la entrevista, ok, vamos a ver la entrevista,"
+    },
+    {
+      "start": 3782.65,
+      "duration": 4.8,
+      "text": "interview, la guía de la entrevista, ok, esto es para entrevistar personas, de acuerdo,"
+    },
+    {
+      "start": 3787.45,
+      "duration": 5.68,
+      "text": "personas reales, ok, warm up, contame quiénes viven en tu casa y cómo se comparten en la"
+    },
+    {
+      "start": 3793.13,
+      "duration": 5.28,
+      "text": "cocina de las compras, el objetivo concreto, creencia 2, overview, muy bien, y la creencia 3,"
+    },
+    {
+      "start": 3798.41,
+      "duration": 6.48,
+      "text": "ok, perfecto, estamos bien, contame quiénes viven en tu casa, cómo fue la cena de ayer,"
+    },
+    {
+      "start": 3804.89,
+      "duration": 5.51,
+      "text": "qué comieron, cómo se decidió, ok, prueba, a qué hora se supo que se comía, quién lo decidió,"
+    },
+    {
+      "start": 3810.4,
+      "duration": 4.04,
+      "text": "alguna opinión, episodio concreto que relaja y del contexto del fútbol real, muy bien,"
+    },
+    {
+      "start": 3815.32,
+      "duration": 4.84,
+      "text": "a partir de lo que hay en el registro de su costo, intento de cambiar, ok,"
+    },
+    {
+      "start": 3820.16,
+      "duration": 4.92,
+      "text": "lléame a tu última compra de alimentos, cómo supiste qué comprar, cuando fue la última"
+    },
+    {
+      "start": 3825.16,
+      "duration": 5.2,
+      "text": "vez que tiraste comida, qué era, cuándo fue la última vez que cocinaste algo puntualmente para"
+    },
+    {
+      "start": 3830.36,
+      "duration": 5.6,
+      "text": "aprovechar algo que ya tenías, ok, alguna vez intentaste llevar algún registro en la casa,"
+    },
+    {
+      "start": 3835.96,
+      "duration": 7.3,
+      "text": "gasto una lista compartida de planillas, ok, si es que lo hizo, sin ir a mirar,"
+    },
+    {
+      "start": 3843.26,
+      "duration": 6.36,
+      "text": "me puedes decir qué hay ahora mismo en tu freezer, me gustó esa pregunta, prueba cómo"
+    },
+    {
+      "start": 3849.62,
+      "duration": 3.92,
+      "text": "lo sabe, por qué no, quién manda en su casa, quién más de su casa lo sabría, cuándo fue la"
+    },
+    {
+      "start": 3853.54,
+      "duration": 5.16,
+      "text": "última vez que encontraste algo, estas serían algunas follow up, me imagino, ok, bueno, la"
+    },
+    {
+      "start": 3858.7,
+      "duration": 5.24,
+      "text": "testíamos, intento de cambiar, contame la última vez que en tu casa intentaron cambiar algo de cómo"
+    },
+    {
+      "start": 3863.94,
+      "duration": 5.04,
+      "text": "comen, menos graciosa, menos frituras, más verduras, lo que sea, qué pasó después, cuánto"
+    },
+    {
+      "start": 3868.98,
+      "duration": 5.6,
+      "text": "duró y qué lo cortó, hay algo más que te gustaría cambiar de cómo come tu familia,"
+    },
+    {
+      "start": 3874.58,
+      "duration": 4.08,
+      "text": "qué hiciste al respecto en el último mes, qué tendría que haber preguntado y no te"
+    },
+    {
+      "start": 3878.66,
+      "duration": 8.64,
+      "text": "repregunté, ok, las típicas de wrap up, ok, bien, vamos a testearla, entonces lo que vamos a"
+    },
+    {
+      "start": 3887.3,
+      "duration": 4.12,
+      "text": "testearlo es con nuestro personaje primario, nuestro personaje primario era Valeria,"
+    },
+    {
+      "start": 3891.42,
+      "duration": 12.31,
+      "text": "si no me equivoco, sí, Valeria, ok, entonces, test interview guide y la guía, vamos a utilizar"
+    },
+    {
+      "start": 3904.69,
+      "duration": 15.53,
+      "text": "producto, interview guides y acá vamos a usar esta y Valeria, ahí estamos, va a simular la"
+    },
+    {
+      "start": 3920.22,
+      "duration": 10.88,
+      "text": "entrevista de Valeria y a ver cómo funciona la entrevista, ok, bien, excelente, solamente voy"
+    },
+    {
+      "start": 3931.1,
+      "duration": 5.56,
+      "text": "a ejecutar la entrevista contra las personas sintéticas para validar la entrevista, para"
+    },
+    {
+      "start": 3937.38,
+      "duration": 5.52,
+      "text": "la voy a contrastar con dos o tres personas sintéticas para identificar gaps en la entrevista,"
+    },
+    {
+      "start": 3942.9,
+      "duration": 5.92,
+      "text": "funcionamiento, dead ends y este tipo de cosas, pero después no, después lo que hacemos es"
+    },
+    {
+      "start": 3948.82,
+      "duration": 8.02,
+      "text": "correrlo con gente real, sí, todo este proceso que fuiste tomando también se aplica para"
+    },
+    {
+      "start": 3956.84,
+      "duration": 5.08,
+      "text": "negocios no virtuales, sí, claro, tal cual, sí, porque es más un discovery en general que"
+    },
+    {
+      "start": 3961.92,
+      "duration": 7.81,
+      "text": "estamos haciendo, exactamente, y con esto terminamos de validar la entrevista, la entrevista"
+    },
+    {
+      "start": 3969.73,
+      "duration": 7.8,
+      "text": "queda diseñada, la encuesta está corriendo, ok, estamos ahora con 100 respuestas, excelente,"
+    },
+    {
+      "start": 3977.53,
+      "duration": 13.45,
+      "text": "bien, les muestro rápidamente que tenemos por acá, bien, principalmente yo, quien decía"
+    },
+    {
+      "start": 3990.98,
+      "duration": 6.07,
+      "text": "habitualmente que se comen en tu hogar, bien, principalmente yo, está en el 53% ahora,"
+    },
+    {
+      "start": 3997.69,
+      "duration": 4.0,
+      "text": "las comidas en tu hogar, se decidió en el momento, se decidió el mismo día, o sea,"
+    },
+    {
+      "start": 4001.69,
+      "duration": 5.6,
+      "text": "tenemos bastante improvisación interesante, ok, hay muy poquita planificación, muy poquita"
+    },
+    {
+      "start": 4007.29,
+      "duration": 6.79,
+      "text": "planificación y muy poca, 3.5% por un plan completo de todas las semanas, solamente tres"
+    },
+    {
+      "start": 4014.08,
+      "duration": 5.0,
+      "text": "personas, en último mes, con qué frecuencia te pasó de llegar a la hora de cocinar sin"
+    },
+    {
+      "start": 4019.08,
+      "duration": 4.44,
+      "text": "saber qué preparar, varias veces por semana, hay mucha gente que casi todos los días,"
+    },
+    {
+      "start": 4024.46,
+      "duration": 4.52,
+      "text": "aproximadamente, bueno, estamos frente a una linda oportunidad, la verdad, con qué"
+    },
+    {
+      "start": 4028.98,
+      "duration": 7.46,
+      "text": "frecuencia sientes que tu hogar se repite en compras 70%, y si subamos el casi siempre,"
+    },
+    {
+      "start": 4036.44,
+      "duration": 5.52,
+      "text": "estamos en 80%, qué bestialidad, ok, qué uso soy para organizar las comidas,"
+    },
+    {
+      "start": 4041.96,
+      "duration": 4.04,
+      "text": "lista en papel, notas, mensajes whatsapp, plancha excel, una app específica de comida,"
+    },
+    {
+      "start": 4046.0,
+      "duration": 6.36,
+      "text": "muy poquitos, gpt, solo memoria, gana la memoria, sí, creo que la siento bastante"
+    },
+    {
+      "start": 4052.36,
+      "duration": 9.15,
+      "text": "representativa, ok, en el último mes usaste ya gpt y hubo otra ida para pedir ideas de comidas"
+    },
+    {
+      "start": 4061.51,
+      "duration": 6.14,
+      "text": "y armar un menú, no, lo probé alguna vez, pero no seguí, sí, algunas veces en el mes,"
+    },
+    {
+      "start": 4067.65,
+      "duration": 4.84,
+      "text": "bueno, listo, ya tenemos 100 respuestas, vamos a llegar mañana, a ver cómo llegamos"
+    },
+    {
+      "start": 4072.49,
+      "duration": 7.16,
+      "text": "mañana, ok, acá, qué fixis aplico, acá, lo que hizo esto es correr, entrevistó a la"
+    },
+    {
+      "start": 4079.65,
+      "duration": 9.07,
+      "text": "persona, de acuerdo, y acá tenemos el resultado, bien, qué dice, fixis, qué fixis aplico a la guía,"
+    },
+    {
+      "start": 4088.72,
+      "duration": 3.56,
+      "text": "el archivo se revisa en el lugar con una sección de notas que pertenece al presidente, sí,"
+    },
+    {
+      "start": 4092.28,
+      "duration": 9.1,
+      "text": "ya sé, los cuatro, qué cuatro, pero, para, se adelantó, vamos a hablar de esto,"
+    },
+    {
+      "start": 4101.38,
+      "duration": 13.07,
+      "text": "mostrame los findings antes, quiero ver qué pasó con, acaban los cuatro findings, ok,"
+    },
+    {
+      "start": 4114.45,
+      "duration": 5.52,
+      "text": "redacción ambigua, defecto, última compra de alimentos, no distingue entre la compra"
+    },
+    {
+      "start": 4119.97,
+      "duration": 3.64,
+      "text": "grande y la reposición chica, el participante responde la literal, la verdulería de ayer,"
+    },
+    {
+      "start": 4123.61,
+      "duration": 5.4,
+      "text": "y el episodio rico se pierde salvo que el entrevistador repregunte, ok, muy bien,"
+    },
+    {
+      "start": 4129.01,
+      "duration": 6.52,
+      "text": "entonces, evidencia del try run, la última última, ayer pasé por la verdulería a"
+    },
+    {
+      "start": 4135.53,
+      "duration": 8.37,
+      "text": "comprar tomates y una lechuga, bien, antes revisaste qué había en la caja, y después,"
+    },
+    {
+      "start": 4143.9,
+      "duration": 6.24,
+      "text": "llegamos a tu última compra grande de alimentos, cómo supiste qué comprar, ok, segundo,"
+    },
+    {
+      "start": 4150.14,
+      "duration": 4.6,
+      "text": "preguntas abstractas que no discrimina, perfecto, para quién improvisa frente a la heladera,"
+    },
+    {
+      "start": 4154.74,
+      "duration": 4.0,
+      "text": "cocinar aprovechando lo que ya tenías en el default de todos los días, la pregunta no"
+    },
+    {
+      "start": 4158.74,
+      "duration": 4.48,
+      "text": "aísla ningún episodio o devuelve generalidades, muy bien, yo cocino con lo que hay todos los"
+    },
+    {
+      "start": 4163.22,
+      "duration": 5.75,
+      "text": "días, aprovechar lo que tengo, bien, contame la última vez que tuviste un ingrediente dando"
+    },
+    {
+      "start": 4168.97,
+      "duration": 10.89,
+      "text": "vueltas y no supiste bien qué hacer con él, ok, ok, y rundarte con carga de culpa,"
+    },
+    {
+      "start": 4179.86,
+      "duration": 3.92,
+      "text": "qué hiciste al respecto en el último mes, llegas justo después del C2 que le hizo revisar"
+    },
+    {
+      "start": 4183.78,
+      "duration": 7.76,
+      "text": "el fracaso en detalle, yo en examen, muy bien, ok, entonces, la idea sería, además de ese"
+    },
+    {
+      "start": 4191.54,
+      "duration": 4.56,
+      "text": "intento que me contaste, hay alguna otra cosa como en casa que te dé, ok, sacarlo de la situación,"
+    },
+    {
+      "start": 4196.1,
+      "duration": 11.27,
+      "text": "bien, ok, pone los cuatro, hecho, listo, arreglamos la entrevista, esto, por una cuestión de tiempo"
+    },
+    {
+      "start": 4207.37,
+      "duration": 3.44,
+      "text": "no lo voy a hacer, pero lo ejecutaría con dos, tres personas más, porque generalmente"
+    },
+    {
+      "start": 4210.81,
+      "duration": 6.48,
+      "text": "se encuentran issues en las entrevistas que se crean a primera instancia, ok, entonces ahí está"
+    },
+    {
+      "start": 4217.29,
+      "duration": 6.24,
+      "text": "armando los ajustes de la entrevista, y me voy a ir a entrevistar gente, mañana les cuento"
+    },
+    {
+      "start": 4223.53,
+      "duration": 6.24,
+      "text": "cómo ven con las entrevistas, y tengo una buena feature que me va a mitigar uno de los"
+    },
+    {
+      "start": 4229.77,
+      "duration": 8.51,
+      "text": "riesgos principales que vimos, esa me la guardo, esa me la guardo, bien, nos vemos mañana,"
+    },
+    {
+      "start": 4238.28,
+      "duration": 6.8,
+      "text": "creo que estamos hasta acá, hacemos un repaso rápido de qué tenemos, entonces, en una hora,"
+    },
+    {
+      "start": 4245.08,
+      "duration": 7.76,
+      "text": "una hora y cuánto, una hora y casi una hora y cuarto, qué hicimos, hicimos esto, elegimos"
+    },
+    {
+      "start": 4252.84,
+      "duration": 7.76,
+      "text": "un producto, lo propusieron ustedes, elegimos uno al toon toon, creamos el overview, después"
+    },
+    {
+      "start": 4260.6,
+      "duration": 5.28,
+      "text": "hicimos las personas, las ordenamos, estas son nuestras personas principales, luego hicimos"
+    },
+    {
+      "start": 4265.88,
+      "duration": 4.56,
+      "text": "un research, ese research hizo emerger algunas creencias, validó algunas creencias que teníamos"
+    },
+    {
+      "start": 4270.44,
+      "duration": 5.92,
+      "text": "y puso en duda algunas otras, a partir de los descubrimientos armamos una encuesta,"
+    },
+    {
+      "start": 4276.52,
+      "duration": 6.8,
+      "text": "esa encuesta la tenemos diseñada y funcionando y ya tenemos, ya les digo, tenemos 110 respuestas"
+    },
+    {
+      "start": 4283.32,
+      "duration": 0.8,
+      "text": "en esa encuesta."
+    }
+  ]
+}

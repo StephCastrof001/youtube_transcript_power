@@ -1,8 +1,12 @@
 # Salidas: transcripciones y audio descargado
 transcripts/
+transcripts_whisper/
 *.wav
 *.m4a
 *.webm
+
+# samples/ SI se versiona: es la evidencia del experimento del ANALISIS.
+!samples/
 
 # Python
 __pycache__/

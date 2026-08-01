@@ -91,7 +91,32 @@ El script prefiere MANUAL sobre ASR automáticamente. Si solo hay ASR, te avisa.
 | "multiginacional" | multigeneracional |
 | "cortura del set" | cobertura del set |
 
-Si tu uso tolera eso → terminaste. Si no → Paso 2.
+Si tu uso tolera eso → terminaste. Si no, seguí leyendo — pero **no asumas que
+el Paso 2 lo arregla**. Ver la advertencia abajo.
+
+### ⚠ El Paso 2 no es "la versión correcta"
+
+Es tentador leer la tabla de arriba y concluir que Whisper arregla esos errores.
+Se midió, y es falso. Ver [ANALISIS_metodo1_vs_metodo2.md](ANALISIS_metodo1_vs_metodo2.md)
+para el experimento completo, mismo video, mismos tramos.
+
+**Los dos motores fallan, en lugares distintos:**
+
+| | Gana |
+|---|---|
+| Préstamos del inglés (tech, foodie, learning goals, worktree) | **Whisper** |
+| Morfología española (jubilada, creencia, distribuidores) | **ASR de YouTube** |
+
+Whisper `medium` es multilingüe pero sesgado al inglés; el ASR de YouTube está
+afinado para el español de la región. Cada uno rompe lo que el otro acierta.
+
+**Donde Whisper sí gana sin discusión: limpieza.** Muletilla "eh" de 28.7 a 1.0
+por mil palabras, sin `[carraspeo]`, sin saludos al chat, y 815 oraciones en vez
+de 1754 fragmentos. Si el destino del texto es un LLM o lectura humana, eso
+importa más que un término suelto.
+
+**Regla práctica:** si necesitás precisión léxica real, corré los dos y contrastá
+el pasaje. Un solo motor no te la da.
 
 ### Trampa conocida: la API cambió
 
@@ -154,9 +179,16 @@ Audio de 75 minutos, modelo `medium`, español:
 
 | Camino | Tiempo | Disco extra | Calidad |
 |---|---|---|---|
-| Paso 1 — captions | **~30 seg** | 0 | media (si es ASR) |
-| Paso 2a — GPU int8_float16 | ~8-9 min | ~1 GB (CUDA, ya instalado) | alta |
-| Paso 2b — CPU int8 | ~55 min | 0 | alta (idéntica a GPU) |
+| Paso 1 — captions | **~30 seg** | 0 | léxico ES bueno, mucho ruido |
+| Paso 2a — GPU int8_float16 | **12.9 min** (medido) | ~190 MB temporal | texto limpio, léxico EN bueno |
+| Paso 2b — CPU int8 | ~55 min | ~190 MB temporal | idéntica a GPU |
+
+Medición real: video de 71.4 min, modelo `medium`, GTX 1650 → 12.9 min de GPU
+(5.5x tiempo real), 1880 / 4096 MiB de VRAM. El `medium` entra cómodo; el
+fallback a CPU no se activó.
+
+> El valor de 8-9 min que figuraba antes acá era una estimación heredada de otro
+> proyecto. La medición en este video dio 12.9 min. Se corrigió.
 
 **Aviso de disco:** esta PC vive cerca del 100% de capacidad. Verificá espacio antes de
 instalar CUDA en una máquina nueva. En ésta ya está pago, no vuelve a descargar.
